@@ -1,5 +1,5 @@
-
 import 'package:flutter/material.dart';
+import '../theme/app_colors.dart';
 
 class CustomTabBar extends StatefulWidget {
   final List<String> tabs;
@@ -21,12 +21,13 @@ class _CustomTabBarState extends State<CustomTabBar> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 50,
+      height: 48,
       margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       padding: const EdgeInsets.all(4),
       decoration: BoxDecoration(
-        color: Colors.grey[200],
-        borderRadius: BorderRadius.circular(25),
+        color: const Color(0xFFF3F4F6), // Light grey background
+        borderRadius: BorderRadius.circular(12), // Slightly more squared
+        border: Border.all(color: const Color(0xFFE5E7EB)), // Subtle border
       ),
       child: LayoutBuilder(
         builder: (context, constraints) {
@@ -40,19 +41,19 @@ class _CustomTabBarState extends State<CustomTabBar> {
                   (widget.selectedIndex / (widget.tabs.length - 1)) * 2 - 1,
                   0,
                 ),
-                duration: const Duration(milliseconds: 250),
-                curve: Curves.easeInOut,
+                duration: const Duration(milliseconds: 300),
+                curve: Curves.easeOutCubic,
                 child: Container(
                   width: tabWidth,
                   height: double.infinity,
                   decoration: BoxDecoration(
                     color: Colors.white,
-                    borderRadius: BorderRadius.circular(20),
+                    borderRadius: BorderRadius.circular(8),
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.black.withOpacity(0.1),
+                        color: Colors.black.withOpacity(0.08),
                         blurRadius: 4,
-                        offset: const Offset(0, 2),
+                        offset: const Offset(0, 1),
                       ),
                     ],
                   ),
@@ -72,13 +73,15 @@ class _CustomTabBarState extends State<CustomTabBar> {
                         // Transparent container to capture taps
                         color: Colors.transparent, 
                         alignment: Alignment.center,
-                        child: Text(
-                          title,
+                        child: AnimatedDefaultTextStyle(
+                          duration: const Duration(milliseconds: 200),
                           style: TextStyle(
-                            color: isSelected ? Colors.black : Colors.grey[600],
-                            fontWeight: isSelected ? FontWeight.bold : FontWeight.normal,
+                            fontFamily: 'Noto Sans KR', // Explicitly use if available via main.dart theme
+                            color: isSelected ? AppColors.textPrimary : AppColors.textSecondary,
+                            fontWeight: isSelected ? FontWeight.w700 : FontWeight.w500,
                             fontSize: 14,
                           ),
+                          child: Text(title),
                         ),
                       ),
                     ),

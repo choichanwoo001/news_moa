@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import '../models/stock_sector.dart';
 import '../widgets/custom_tab_bar.dart';
@@ -30,7 +29,6 @@ class _HomeScreenState extends State<HomeScreen> {
       _selectedTabIndex = index;
       
       // Simple simulation of different data for different tabs
-      // In a real app, this would fetch data from an API
       final baseData = StockSector.dummyData;
       if (index == 0) {
         _currentSectors = baseData;
@@ -56,45 +54,73 @@ class _HomeScreenState extends State<HomeScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             // Custom Header
-            const Padding(
-              padding: EdgeInsets.fromLTRB(20, 20, 20, 10),
-              child: Text(
-                'Market Heatmap',
-                style: TextStyle(
-                  fontSize: 28,
-                  fontWeight: FontWeight.bold,
-                  color: Colors.black,
-                  letterSpacing: -0.5,
-                ),
+            Padding(
+              padding: const EdgeInsets.fromLTRB(24, 24, 24, 16),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    'Market Heatmap',
+                    style: Theme.of(context).textTheme.headlineMedium?.copyWith(
+                          fontWeight: FontWeight.w800,
+                          color: AppColors.textPrimary,
+                          letterSpacing: -0.5,
+                        ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Real-time visualization of market news volume',
+                    style: Theme.of(context).textTheme.bodyMedium?.copyWith(
+                          color: AppColors.textSecondary,
+                        ),
+                  ),
+                ],
               ),
             ),
             
             // Segmented Control
-            CustomTabBar(
-              tabs: _tabs,
-              selectedIndex: _selectedTabIndex,
-              onTabSelected: _onTabSelected,
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 8.0),
+              child: CustomTabBar(
+                tabs: _tabs,
+                selectedIndex: _selectedTabIndex,
+                onTabSelected: _onTabSelected,
+              ),
             ),
             
+            const SizedBox(height: 16),
+
             // Main Content Area (Treemap)
             Expanded(
-              child: Padding(
-                padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+              child: Container(
+                margin: const EdgeInsets.symmetric(horizontal: 16.0),
+                decoration: BoxDecoration(
+                  color: AppColors.surface,
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.black.withOpacity(0.05),
+                      blurRadius: 10,
+                      offset: const Offset(0, 4),
+                    ),
+                  ],
+                ),
+                padding: const EdgeInsets.all(12),
                 child: StockTreemap(sectors: _currentSectors),
               ),
             ),
             
-            // Bottom Info / Legend (Optional)
+             // Bottom Info / Legend
             Padding(
-              padding: const EdgeInsets.all(16.0),
+              padding: const EdgeInsets.fromLTRB(16, 24, 16, 16),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  _buildLegendItem(AppColors.heatHigh, "High Vol"),
-                  const SizedBox(width: 16),
-                  _buildLegendItem(AppColors.heatMediumLow, "Med Vol"),
-                  const SizedBox(width: 16),
-                  _buildLegendItem(AppColors.heatLowest, "Low Vol"),
+                  _buildLegendItem(AppColors.heatHigh, "High Volume"),
+                  const SizedBox(width: 24),
+                  _buildLegendItem(AppColors.heatMediumLow, "Med Volume"),
+                  const SizedBox(width: 24),
+                  _buildLegendItem(AppColors.heatLowest, "Low Volume"),
                 ],
               ),
             ),
@@ -108,20 +134,20 @@ class _HomeScreenState extends State<HomeScreen> {
     return Row(
       children: [
         Container(
-          width: 12,
-          height: 12,
+          width: 8,
+          height: 8,
           decoration: BoxDecoration(
             color: color,
             shape: BoxShape.circle,
           ),
         ),
-        const SizedBox(width: 4),
+        const SizedBox(width: 8),
         Text(
           text,
-          style: const TextStyle(
-            color: Colors.grey,
-            fontSize: 12,
-          ),
+          style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                color: AppColors.textSecondary,
+                fontWeight: FontWeight.w500,
+              ),
         ),
       ],
     );

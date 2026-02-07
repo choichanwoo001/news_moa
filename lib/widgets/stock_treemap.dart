@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import '../models/stock_sector.dart';
 import '../theme/app_colors.dart';
@@ -19,8 +18,8 @@ class StockTreemap extends StatelessWidget {
       for (var s in sortedSectors) s.id: s.newsVolume
     };
 
-    return Container(
-      padding: const EdgeInsets.all(4), // Outer padding
+    return ClipRRect(
+      borderRadius: BorderRadius.circular(12),
       child: CustomMultiChildLayout(
         delegate: TreemapLayoutDelegate(weights: weights),
         children: sortedSectors.map((sector) {
@@ -28,71 +27,64 @@ class StockTreemap extends StatelessWidget {
           
           return LayoutId(
             id: sector.id,
-            child: _buildBlock(sector, color),
+            child: _buildBlock(context, sector, color),
           );
         }).toList(),
       ),
     );
   }
 
-  Widget _buildBlock(StockSector sector, Color color) {
-    // Check if the block is too small to show text
-    // We can't know the size here easily without LayoutBuilder inside layout,
-    // but the CustomMultiChildLayout just places them.
-    // We can wrap the content in a container that clips or scales text.
-    
+  Widget _buildBlock(BuildContext context, StockSector sector, Color color) {
     return Container(
       decoration: BoxDecoration(
         color: color,
-        borderRadius: BorderRadius.circular(8), // Rounded corners
-        border: Border.all(color: Colors.white, width: 2), // Gap simulation
+        border: Border.all(color: AppColors.surface, width: 1.0), // Cleaner, thinner gap
       ),
-      padding: const EdgeInsets.all(4),
+      padding: const EdgeInsets.all(8),
       child: LayoutBuilder(
         builder: (context, constraints) {
-          // Calculate available height
           final double h = constraints.maxHeight;
           final double w = constraints.maxWidth;
           
-          if (h < 20 || w < 30) {
-            return const SizedBox.shrink(); // Too small to show anything
+          if (h < 30 || w < 40) {
+            return const SizedBox.shrink(); 
           }
 
-          return Center(
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
-                if (h > 20)
-                  Flexible(
-                    child: Text(
-                      sector.name,
-                      style: TextStyle(
-                        color: Colors.white,
-                        fontWeight: FontWeight.bold,
-                        fontSize: (h < 40) ? 12 : 16, // Adaptive font size
-                      ),
-                      textAlign: TextAlign.center,
-                      overflow: TextOverflow.ellipsis,
-                      maxLines: 1,
-                    ),
+          return Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Flexible(
+                child: Text(
+                  sector.name,
+                  style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                    color: Colors.white,
+                    fontWeight: FontWeight.bold,
+                    fontSize: (w < 80 || h < 60) ? 12 : 15,
+                    height: 1.1,
                   ),
-                if (h > 40) ...[
-                  const SizedBox(height: 4),
-                  Flexible(
-                    child: Text(
-                      "${sector.newsVolume.toInt()} News",
-                      style: const TextStyle(
-                        color: Colors.white70,
-                        fontSize: 12,
-                      ),
-                      textAlign: TextAlign.center,
-                      overflow: TextOverflow.ellipsis,
-                      maxLines: 1,
+                  textAlign: TextAlign.center,
+                  overflow: TextOverflow.fade,
+                  maxLines: 2,
+                ),
+              ),
+              if (h > 50 && w > 80) ...[
+                const SizedBox(height: 4),
+                Flexible(
+                  child: Text(
+                    "${sector.newsVolume.toInt()} News",
+                    style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                      color: Colors.white.withOpacity(0.9),
+                      fontSize: 11,
+                      fontWeight: FontWeight.w400,
                     ),
+                    textAlign: TextAlign.center,
+                    overflow: TextOverflow.ellipsis,
+                    maxLines: 1,
                   ),
-                ],
+                ),
               ],
-            ),
+            ],
           );
         },
       ),

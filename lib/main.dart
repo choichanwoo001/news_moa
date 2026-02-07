@@ -1,5 +1,5 @@
-
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'screens/home_screen.dart';
 import 'theme/app_colors.dart';
 
@@ -15,16 +15,26 @@ class NewsMoaApp extends StatelessWidget {
     return MaterialApp(
       title: 'News Moa',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        useMaterial3: true,
-        scaffoldBackgroundColor: AppColors.background,
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.blue,
-          background: AppColors.background,
-        ),
-        fontFamily: 'Roboto', // Default fallback, expecting Google Fonts in real usage if configured
-      ),
+      theme: _buildTheme(),
       home: const HomeScreen(),
+    );
+  }
+
+  ThemeData _buildTheme() {
+    final base = ThemeData.light();
+    
+    return base.copyWith(
+      scaffoldBackgroundColor: AppColors.background,
+      colorScheme: ColorScheme.fromSeed(
+        seedColor: AppColors.primary,
+        background: AppColors.background,
+        surface: AppColors.surface,
+      ),
+      textTheme: GoogleFonts.notoSansKrTextTheme(base.textTheme).apply(
+        bodyColor: AppColors.textPrimary,
+        displayColor: AppColors.textPrimary,
+      ),
+      useMaterial3: true,
     );
   }
 }
