@@ -179,7 +179,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             
             if (_selectedSubSector == null)
-              const SizedBox(height: 24),
+              const SizedBox(height: 16),
             
             // Main Content Area
             if (_selectedSubSector != null)

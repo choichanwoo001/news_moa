@@ -99,7 +99,7 @@ class StockTreemap extends StatelessWidget {
                   child: FittedBox(
                     fit: BoxFit.scaleDown,
                     child: Text(
-                      sector.newsVolume > 50 ? "▲ 화제성 급증" : "▼ 조금 잠잠함", 
+                      '${sector.newsVolume.toInt()}건', 
                       style: Theme.of(context).textTheme.bodySmall?.copyWith(
                         color: Colors.white.withOpacity(0.9),
                         fontSize: 10,
