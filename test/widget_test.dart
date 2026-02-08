@@ -9,17 +9,19 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:news_moa/main.dart';
+import 'package:news_moa/screens/home_screen.dart';
+import 'package:news_moa/widgets/custom_tab_bar.dart';
 
 void main() {
   testWidgets('NewsMoaApp smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
     await tester.pumpWidget(const NewsMoaApp());
+    await tester.pumpAndSettle();
 
-    // Verify that the title text is present
-    expect(find.text('Market Heatmap'), findsOneWidget);
+    // Verify that the HomeScreen is present
+    expect(find.byType(HomeScreen), findsOneWidget);
     
-    // Verify tabs are present
-    expect(find.text('대한민국'), findsOneWidget);
-    expect(find.text('미국'), findsOneWidget);
+    // Verify CustomTabBar is present
+    expect(find.byType(CustomTabBar), findsOneWidget);
   });
 }

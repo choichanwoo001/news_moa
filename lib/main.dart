@@ -15,13 +15,13 @@ class NewsMoaApp extends StatelessWidget {
     return MaterialApp(
       title: 'News Moa',
       debugShowCheckedModeBanner: false,
-      theme: _buildTheme(),
+      theme: _buildDarkTheme(), // Directly using Dark Theme
       home: const HomeScreen(),
     );
   }
 
-  ThemeData _buildTheme() {
-    final base = ThemeData.light();
+  ThemeData _buildDarkTheme() {
+    final base = ThemeData.dark();
     
     return base.copyWith(
       scaffoldBackgroundColor: AppColors.background,
@@ -29,12 +29,18 @@ class NewsMoaApp extends StatelessWidget {
         seedColor: AppColors.primary,
         background: AppColors.background,
         surface: AppColors.surface,
+        brightness: Brightness.dark,
       ),
       textTheme: GoogleFonts.notoSansKrTextTheme(base.textTheme).apply(
         bodyColor: AppColors.textPrimary,
         displayColor: AppColors.textPrimary,
       ),
       useMaterial3: true,
+      // Improve divider theme
+      dividerTheme: const DividerThemeData(
+        color: AppColors.divider,
+        thickness: 1,
+      ),
     );
   }
 }
