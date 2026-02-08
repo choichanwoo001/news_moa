@@ -14,7 +14,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   int _selectedTabIndex = 0;
-  final List<String> _tabs = ["전체 (Global)", "한국 (Korea)", "미국 (USA)", "중국 (China)"];
+  final List<String> _tabs = ["한국", "미국"];
   
   // Dummy news data
   // Dummy news data
@@ -127,21 +127,27 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Stack(
                 alignment: Alignment.center,
                 children: [
-                   if (_isCategoryLevel)
+                   if (_isCategoryLevel || _selectedSubSector != null)
                     Positioned(
                       left: 0,
                       child: IconButton(
                         icon: const Icon(Icons.arrow_back_ios_new, color: AppColors.textPrimary),
                         onPressed: () {
                           setState(() {
-                            _loadTopLevelCategories();
+                            if (_selectedSubSector != null) {
+                              _selectedSubSector = null; // Return to Level 2 (Sub-sector Heatmap)
+                            } else {
+                              _loadTopLevelCategories(); // Return to Level 1 (Main Categories)
+                            }
                           });
                         },
                       ),
                     ),
                   Center(
                     child: Text(
-                      _isCategoryLevel ? _selectedCategory!.name : 'NewsMoa',
+                      _selectedSubSector != null 
+                          ? _selectedSubSector!.name 
+                          : (_isCategoryLevel ? _selectedCategory!.name : 'NewsMoa'),
                       style: TextStyle(
                         fontFamily: 'Noto Sans KR',
                         fontSize: 28,
@@ -161,46 +167,147 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
             
-            // Segmented Control (Dark Pill Style)
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16.0),
-              child: CustomTabBar(
-                tabs: _tabs,
-                selectedIndex: _selectedTabIndex,
-                onTabSelected: _onTabSelected,
-              ),
-            ),
-            
-            const SizedBox(height: 24),
-            
-
-
-            const SizedBox(height: 12),
-
-            // Main Content Area (Treemap)
-            Expanded(
-              flex: 3, // Give more space to the map
-              child: Container(
-                margin: const EdgeInsets.symmetric(horizontal: 16.0),
-                // Removed explicit background color for cleaner look, 
-                // allowing individual blocks to stand out against the dark bg
-                child: StockTreemap(
-                  sectors: _currentSectors,
-                  onSectorTap: _onSectorTap,
+            // Segmented Control (Dark Pill Style) - Hide when in news view
+            if (_selectedSubSector == null)
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 16.0),
+                child: CustomTabBar(
+                  tabs: _tabs,
+                  selectedIndex: _selectedTabIndex,
+                  onTabSelected: _onTabSelected,
                 ),
               ),
-            ),
             
-            const SizedBox(height: 16),
+            if (_selectedSubSector == null)
+              const SizedBox(height: 24),
+            
+            // Main Content Area
+            if (_selectedSubSector != null)
+              // Full Screen News List
+              _buildFullPageNewsList()
+            else ...[
+              // Treemap
+              Expanded(
+                flex: 3, 
+                child: Container(
+                  margin: const EdgeInsets.symmetric(horizontal: 16.0),
+                  child: StockTreemap(
+                    sectors: _currentSectors,
+                    onSectorTap: _onSectorTap,
+                  ),
+                ),
+              ),
+              
+              const SizedBox(height: 16),
 
-             // Bottom Info / News Feed
-            _buildLiveNewsFeed(),
+               // Bottom Info / News Feed (Mini)
+              _buildLiveNewsFeed(),
+            ],
           ],
         ),
       ),
     );
   }
 
+  Widget _buildFullPageNewsList() {
+    final filteredItems = _newsItems.where((item) => item['sector'] == _selectedSubSector!.name).toList();
+
+    return Expanded(
+      child: Container(
+        margin: const EdgeInsets.fromLTRB(16, 0, 16, 0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Padding(
+              padding: const EdgeInsets.only(bottom: 16.0, left: 8, right: 8),
+              child: Text(
+                '${_selectedSubSector!.name} 관련 주요 뉴스',
+                style: const TextStyle(
+                  color: AppColors.textPrimary,
+                  fontSize: 18,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+            Expanded(
+              child: filteredItems.isEmpty 
+              ? const Center(
+                  child: Text(
+                    "관련된 최근 뉴스가 없습니다.", 
+                    style: TextStyle(color: AppColors.textSecondary),
+                  ),
+                )
+              : ListView.separated(
+                  padding: const EdgeInsets.only(bottom: 16),
+                  itemCount: filteredItems.length,
+                  separatorBuilder: (context, index) => const Divider(
+                    height: 1, 
+                    color: AppColors.surfaceHighlight, 
+                  ),
+                  itemBuilder: (context, index) {
+                    final item = filteredItems[index];
+                    final isHighlight = item['highlight'] == "true";
+                    
+                    return Container(
+                      margin: const EdgeInsets.symmetric(vertical: 8),
+                      padding: const EdgeInsets.all(16),
+                      decoration: BoxDecoration(
+                        color: AppColors.surface,
+                        borderRadius: BorderRadius.circular(16),
+                        border: Border.all(color: AppColors.surfaceHighlight),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Container(
+                                padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                decoration: BoxDecoration(
+                                  color: AppColors.background,
+                                  borderRadius: BorderRadius.circular(6),
+                                ),
+                                child: Text(
+                                  item['sector']!,
+                                  style: TextStyle(
+                                    color: AppColors.getSectorColor(item['sector']!),
+                                    fontSize: 11,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                              ),
+                              const SizedBox(width: 8),
+                              Text(
+                                item['time']!,
+                                style: const TextStyle(
+                                  color: AppColors.textSecondary,
+                                  fontSize: 12,
+                                  fontWeight: FontWeight.w500,
+                                ),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 12),
+                          Text(
+                            item['title']!,
+                            style: TextStyle(
+                              color: isHighlight ? AppColors.textPrimary : AppColors.textSecondary,
+                              fontSize: 16,
+                              fontWeight: isHighlight ? FontWeight.bold : FontWeight.w500,
+                              height: 1.3,
+                            ),
+                          ),
+                        ],
+                      ),
+                    );
+                  },
+                ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
 
   Widget _buildLiveNewsFeed() {
     return Expanded(
@@ -219,7 +326,7 @@ class _HomeScreenState extends State<HomeScreen> {
               padding: const EdgeInsets.all(16.0),
               child: Row(
                 children: [
-                  Container(
+                   Container(
                     width: 8,
                     height: 8,
                     decoration: const BoxDecoration(
@@ -237,9 +344,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   const Spacer(),
                   Text(
-                    _selectedSubSector != null 
-                      ? '${_selectedSubSector!.name} 관련 뉴스' 
-                      : '실시간 업데이트 중',
+                    '실시간 업데이트 중',
                     style: TextStyle(
                       color: AppColors.textSecondary.withOpacity(0.7),
                       fontSize: 12,
@@ -252,9 +357,7 @@ class _HomeScreenState extends State<HomeScreen> {
             Expanded(
               child: ListView.separated(
                 padding: const EdgeInsets.only(bottom: 8),
-                itemCount: _selectedSubSector != null
-                    ? _newsItems.where((item) => item['sector'] == _selectedSubSector!.name).length
-                    : _newsItems.length,
+                itemCount: _newsItems.length,
                 separatorBuilder: (context, index) => const Divider(
                   height: 1, 
                   color: AppColors.surfaceHighlight, 
@@ -262,19 +365,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   endIndent: 16
                 ),
                 itemBuilder: (context, index) {
-                  // Filtering logic
-                  final filteredItems = _selectedSubSector != null
-                      ? _newsItems.where((item) => item['sector'] == _selectedSubSector!.name).toList()
-                      : _newsItems;
-                  
-                  if (filteredItems.isEmpty) {
-                     return const Padding(
-                       padding: EdgeInsets.all(16.0),
-                       child: Center(child: Text("관련 뉴스가 없습니다.", style: TextStyle(color: AppColors.textSecondary))),
-                     );
-                  }
-
-                  final item = filteredItems[index];
+                  final item = _newsItems[index];
                   final isHighlight = item['highlight'] == "true";
                   
                   return Padding(
@@ -315,7 +406,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 child: Text(
                                   item['sector']!,
                                   style: TextStyle(
-                                    color: AppColors.getSectorColor(item['sector']!), // Helper method usage assumption or fallback
+                                    color: AppColors.getSectorColor(item['sector']!), 
                                     fontSize: 10,
                                     fontWeight: FontWeight.bold,
                                   ),
