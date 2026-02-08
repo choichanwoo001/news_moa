@@ -146,24 +146,14 @@ class _HomeScreenState extends State<HomeScreen> {
                         fontFamily: 'Noto Sans KR',
                         fontSize: 28,
                         fontWeight: FontWeight.w900,
+                        color: Colors.white,
                         shadows: [
                           Shadow(
                             offset: const Offset(0, 0),
                             blurRadius: 10.0,
-                            color: AppColors.neonGlow.withOpacity(0.6),
-                          ),
-                          Shadow(
-                            offset: const Offset(0, 0),
-                            blurRadius: 20.0,
-                            color: AppColors.accent.withOpacity(0.4),
+                            color: AppColors.neonGlow.withOpacity(0.5),
                           ),
                         ],
-                        decoration: TextDecoration.none,
-                        foreground: Paint()
-                          ..style = PaintingStyle.fill
-                          ..shader = const LinearGradient(
-                            colors: [AppColors.neonGlow, AppColors.accent, AppColors.heatHigh],
-                          ).createShader(const Rect.fromLTWH(0, 0, 300, 50)),
                       ),
                     ),
                   ),
