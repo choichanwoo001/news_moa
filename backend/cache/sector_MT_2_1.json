@@ -1,0 +1,115 @@
+{
+  "saved_at": 1772032781.7623563,
+  "data": {
+    "sector_id": "MT_2",
+    "sector_name": "금속",
+    "category_id": "MT",
+    "category_name": "소재",
+    "articles": [
+      {
+        "title": "한국증시 '육천피' 시대 열렸다 레벨업 기대…현대차 9% 급등",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352223",
+        "description": "간밤 뉴욕증시는 3대 주가지수가 모두 반등했다. 다우존스30산업평균지수와 스탠더드앤드푸어스(S&P)... 업종별로는 건설업(6.78%), 철강·금속(5.24%), 증권(4.10%), 운수장비(3.98%), 보험(3.74%), 운수창고(3.30%), 종이... ",
+        "pubDate": "Wed, 25 Feb 2026 16:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352223",
+        "content": null,
+        "related_companies": [
+          "현대차"
+        ],
+        "ai_classification_reason": "금속 산업의 일환으로 철강·금속의 주가 상승 현상을 다룸",
+        "summary": "한국증시에서 철강·금속 업종이 5.24% 상승하는 등 전반적으로 긍정적인 흐름을 보이고 있다."
+      },
+      {
+        "title": "'육천피' 시대 열렸다…레벨업 기대 반도체주 강세 속 현대차·기아 급...",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352136",
+        "description": "간밤 뉴욕증시는 3대 주가지수가 모두 반등했다. 다우존스30산업평균지수와 스탠더드앤드푸어스(S&P)... 업종별로는 건설업(6.76%), 운수장비(4.34%), 운수창고(3.74%), 철강·금속(2.86%), 증권(2.82%), 전기가스업(2.36... ",
+        "pubDate": "Wed, 25 Feb 2026 10:42:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352136",
+        "content": null,
+        "related_companies": [
+          "현대차",
+          "기아"
+        ],
+        "ai_classification_reason": "금속 업종의 성과가 언급됨",
+        "summary": "주가 상승이 뚜렷하게 나타나며 특히 철강·금속 업종이 2.86% 상승하는 등 긍정적인 시장 반응을 보이고 있다."
+      },
+      {
+        "title": "'반도체 랠리'에 코스피 5960대로 20만전자·100만닉스까지 넘었다",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352113",
+        "description": "전날 뉴욕증시는 3대 주가지수가 모두 1% 넘게 떨어졌다. 다우존스30산업평균지수와... 업종별로는 철강·금속(4.59%), 전기·전자(4.19%), 화학(2.62%), 건설업(1.91%), 의약품(0.95%), 유통업(0.71%) 등이 올랐으나 보험... ",
+        "pubDate": "Tue, 24 Feb 2026 16:58:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352113",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "철강·금속 업종의 주가 변화가 언급됨",
+        "summary": "코스피가 철강·금속 업종의 상승 중에도 전체 지수가 하락세를 보이며 불안한 모습을 드러냈다."
+      },
+      {
+        "title": "트럼프 '관세 변덕'에 코스피 약보합 외국인 차익실현 매물 현대차 2%↓",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352031",
+        "description": "전날 뉴욕증시는 3대 주가지수가 모두 1% 넘게 떨어졌다. 다우존스30산업평균지수와... 13%) 등이 떨어지고 있으나 철강·금속(2.65%), 화학(2.25%), 의약품(1.28%), 전기·전자(0.82%) 등은 오르는 중이다. 같은 시각... ",
+        "pubDate": "Tue, 24 Feb 2026 10:14:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.smedaily.co.kr/news/articleView.html?idxno=352031",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "철강·금속의 주가 변화를 다룸",
+        "summary": "트럼프의 관세 변동성이 코스피에 영향을 미치며 철강·금속 업종은 2.65% 상승하였다."
+      },
+      {
+        "title": "美 대법원, 트럼프 관세에 제동···철강·알루미늄 유지, K조선·방산 ...",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2396678",
+        "description": "특히 미국의 금속 관세가 철강 의존도가 높은 방위산업과 조선업의 비용 구조와 공급망에 어떤 영향을... 미국에서는 트럼프 행정부의 철강·알루미늄 관세 도입 이후 방산기업의 주가와 예상 생산비가 악화됐다는 연구... ",
+        "pubDate": "Sat, 21 Feb 2026 16:24:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2396678",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "미국 금속 관세가 철강 관련 기업에 미치는 영향 논의",
+        "summary": "미국 대법원이 철강·알루미늄 관세에 제동을 걸면서 방산 및 조선업에 미치는 영향에 대한 우려가 확산되고 있다."
+      },
+      {
+        "title": "반도체·증권 '쌍끌이' 코스피 5670대로 삼성전자 5%급등…19만전자 올라...",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=351770",
+        "description": "간밤 뉴욕증시는 3대 주가지수가 동반 상승한 채 마감했다. 다우존스30산업평균지수와... 75%), 철강·금속(1.92%) 등이 올랐으나 통신업(-1.57%), 음식료품(-0.14%) 등은 떨어졌다. 코스닥지수는 전 거래일보다 54.... ",
+        "pubDate": "Thu, 19 Feb 2026 16:50:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.smedaily.co.kr/news/articleView.html?idxno=351770",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "철강·금속 업종 주가 동향이 논의됨",
+        "summary": "코스피가 철강·금속 업종의 상승에도 불구하고 전체적으로 약세를 보이며 미 주식 시장의 영향이 지속되고 있다."
+      },
+      {
+        "title": "세아제강지주·TCC스틸 주가 '흔들'… 강관·컬러강판 부진",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=430206",
+        "description": "대양금속과 문배철강, 동국홀딩스, 쎄니트, 한국주철관, 아주스틸, 경남스틸, 대창스틸, 동일산업 등은 약보합권에 머물렀다. 강관·배관 관련 KBI동양철관과 부국철강, 동국산업, 대동스틸, 코나솔, 유에스티... ",
+        "pubDate": "Wed, 18 Feb 2026 15:06:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=430206",
+        "content": null,
+        "related_companies": [
+          "세아제강",
+          "TCC스틸",
+          "동국산업"
+        ],
+        "ai_classification_reason": "금속 관련 기업의 주가 변동이 언급됨",
+        "summary": "주가가 흔들리는 가운데 세아제강지주와 TCC스틸이 강관 및 컬러강판 부진의 영향을 받고 있다."
+      }
+    ],
+    "news_volume": 50108.0,
+    "change_rate": 1.67,
+    "cached_at": "2026-02-26 00:19:39",
+    "sector_briefing": "철강·금속 업종이 5.24% 상승하며 긍정적인 시장 흐름을 보이는 상황에 주목.",
+    "rising_keywords": [
+      "현대차",
+      "기아",
+      "세아제강",
+      "TCC스틸",
+      "동국산업"
+    ]
+  }
+}

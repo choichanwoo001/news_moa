@@ -1,0 +1,139 @@
+{
+  "saved_at": 1772032748.8149698,
+  "data": {
+    "sector_id": "CD_1",
+    "sector_name": "자동차",
+    "category_id": "CD",
+    "category_name": "임의소비재",
+    "articles": [
+      {
+        "title": "전기차 관련주, '덩실덩실' 엠에스오토텍·계양전기·모베이스전·KEC·경...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "description": "수주가 급증하고 있다. 이에 네오티스도 영향을 받고 있는 것으로 분석된다. 네오티스는 인쇄회로기판(PCB) 가공에 사용되는 초정밀 공구인 마이크로비트(Micro Bit)와 자동차에 사용되는 모터용 샤프트 등을 제조하는... ",
+        "pubDate": "Thu, 26 Feb 2026 00:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "content": null,
+        "related_companies": [
+          "네오티스"
+        ],
+        "ai_classification_reason": "전기차 관련 제품을 언급해 자동차 섹터와 관련 있음",
+        "summary": "수주가 급증하며, 네오티스는 자동차에 사용되는 모터용 샤프트를 제조하고 있다."
+      },
+      {
+        "title": "로봇·산업용·협동로봇 관련주, '함박웃음' 계양전기·아이엘·씨피시...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "description": "계양전기와 아이엘과 에스엘의 주가 상승률은 각각각 29.89%, 22.95%, 17.97%다. 앤로보틱스와 에스피지와... 전동공구 전문 제조업체 계양전기가 현대자동차그룹의 로보틱스 사업망에 새롭게 참여했다. 계양전기는 최근... ",
+        "pubDate": "Thu, 26 Feb 2026 00:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "content": null,
+        "related_companies": [
+          "에스엘"
+        ],
+        "ai_classification_reason": "현대자동차그룹의 로보틱스 사업망 참여로 자동차와 관련된 내용",
+        "summary": "계양전기가 현대자동차그룹의 로보틱스 사업망에 새롭게 참여하게 되었음을 알렸다."
+      },
+      {
+        "title": "[사설] 파죽의 ‘코스피 6000’…쏠림·빚투 리스크도 경계해야",
+        "link": "https://n.news.naver.com/mnews/article/011/0004593551?sid=110",
+        "description": "현대자동차그룹이 가세하며 코스피 6000 시대를 앞당겼다. JP모건과 노무라금융투자가 코스피 목표치를 7500... 기업들의 고른 실적과 경제성장률이 뒷받침하지 않은 채 주가만 오르는 구조는 지속 가능하지 않다. 증시... ",
+        "pubDate": "Thu, 26 Feb 2026 00:02:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.sedaily.com/article/20012675?ref=naver",
+        "content": null,
+        "related_companies": [
+          "현대자동차"
+        ],
+        "ai_classification_reason": "현대자동차가 특정 주가 상승과 관련된 기사로 직접적 연관 있음",
+        "summary": "현대자동차그룹이 코스피 6000 시대를 앞당기는 데 기여하고 있다는 보고가 발표됐다."
+      },
+      {
+        "title": "트럼프 국정연설 \"비트코인 전략비축 패싱\" 뉴욕증시 암호화폐 레버리지...",
+        "link": "https://www.g-enews.com/view.php?ud=202602231913122312906806b77b_1",
+        "description": "사모펀드 주가가 급락세를 나타냈다. 이 보도에 따르면 블루아울 캐피털은 환매 및 부채 상환 자금 마련을... 지난해 10월 자동차 부품 공급업체 퍼스트브랜즈 파산 등을 계기로 사모대출에 대한 불안이 확산한 영향으로... ",
+        "pubDate": "Thu, 26 Feb 2026 00:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.g-enews.com/view.php?ud=202602231913122312906806b77b_1",
+        "content": null,
+        "related_companies": [
+          "퍼스트브랜즈"
+        ],
+        "ai_classification_reason": "자동차 부품 공급업체를 언급하여 자동차 섹터 관련 기사",
+        "summary": "자동차 부품 공급업체인 퍼스트브랜즈가 파산한 사실이 보도되면서 사모대출 불안이 커졌다."
+      },
+      {
+        "title": "연준 FOMC 금리인하 전면 재조정... 뉴욕증시 비트코인 \"엔비디아 TSMC 폭...",
+        "link": "https://www.g-enews.com/view.php?ud=202602251607198695906806b77b_1",
+        "description": "뉴욕증시의 3대 주가지수가 모두 반등했다.최근 기술 산업의 '공공의 적'이 된 앤트로픽이 일부 기술... 반도체 대형주와 자동차주의 상승세에 힘입어 코스피 상장사 시가총액 합계액(5천16조원)은 사상... ",
+        "pubDate": "Thu, 26 Feb 2026 00:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.g-enews.com/view.php?ud=202602251607198695906806b77b_1",
+        "content": null,
+        "related_companies": [
+          "현대자동차",
+          "기아"
+        ],
+        "ai_classification_reason": "자동차 주식들의 상승세가 기사에서 강조되어 자동차 섹터 관련성 있음",
+        "summary": "ACEA의 1월 자동차 신규 등록대수 발표에 따라 현대차와 기아의 주가가 급등했다."
+      },
+      {
+        "title": "\"또 호재 나왔다\" 외국인들 쓸어담더니…꿈틀대는 이 종목 [종목+]",
+        "link": "https://n.news.naver.com/mnews/article/015/0005255351?sid=101",
+        "description": "대장주가 코스피 시가총액 상위를 구성하는 자동차(현대차)와 2차전지(LG에너지솔루션) 업종에서 나온 호재에 주가가 즉각 반응했기 때문이다. ACEA의 1월 자동차 신규 등록대수 발표는 이날 현대차와 기아 주가가... ",
+        "pubDate": "Wed, 25 Feb 2026 22:01:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.hankyung.com/article/2026022546616",
+        "content": null,
+        "related_companies": [
+          "현대차",
+          "기아"
+        ],
+        "ai_classification_reason": "기아와 현대차의 주가 급등을 다룬 기사로 자동차 섹터와 관련 있음",
+        "summary": "기아와 현대차가 각각 12.70%와 9.16% 급등하며 지수 상승을 이끌었다."
+      },
+      {
+        "title": "70년 증시, 종가 6000에 서다…지수는 새 역사, 체감은 다른 속도",
+        "link": "https://platum.kr/archives/282552",
+        "description": "이날 상승을 주도한 것은 반도체가 아닌 자동차였다. 기아가 12.70%, 현대차가 9.16% 급등하며 지수 상승의... 미국 빅테크의 데이터센터 증설로 HBM(고대역폭 메모리) 수요가 급증하면서 삼성전자와 SK하이닉스 주가가... ",
+        "pubDate": "Wed, 25 Feb 2026 21:48:00 +0900",
+        "source": "Naver",
+        "original_link": "https://platum.kr/archives/282552",
+        "content": null,
+        "related_companies": [
+          "현대차",
+          "기아"
+        ],
+        "ai_classification_reason": "자동차 관련 주식 상승이 지수에 긍정적 영향을 미친 것으로 언급됨",
+        "summary": "코스피 상장사 시가총액이 사상 처음 5천16조원을 넘었으며, 자동차주 상승이 주요 요인으로 작용했다."
+      },
+      {
+        "title": "코스피 '꿈의 6천피 시대' 돌입",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=539911",
+        "description": "이후 인공지능(AI) 거품론 영향에 미국 기술주가 주춤하자 코스피도 숨 고르기에 들어갔으나 연말 '산타... 반도체 대형주와 자동차주 상승세에 힘입어 코스피 상장사 시가총액 합계액(5천16조원)은 사상 처음... ",
+        "pubDate": "Wed, 25 Feb 2026 21:34:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.idaegu.co.kr/news/articleView.html?idxno=539911",
+        "content": null,
+        "related_companies": [
+          "현대자동차",
+          "기아"
+        ],
+        "ai_classification_reason": "자동차주 상승이 지수에 기여한 것으로 다루어져 있음",
+        "summary": "반도체와 함께 자동차주가 코스피 상승에 기여하며 지수의 새로운 역사를 썼다."
+      }
+    ],
+    "news_volume": 446328.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:07",
+    "sector_briefing": "전기차 수요 증가와 현대차의 코스피 주도 등으로 자동차 섹터에 대한 투자 관심이 높아진 상황.",
+    "rising_keywords": [
+      "기아",
+      "현대자동차",
+      "현대차",
+      "네오티스",
+      "에스엘",
+      "퍼스트브랜즈"
+    ]
+  }
+}

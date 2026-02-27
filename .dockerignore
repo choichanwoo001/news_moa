@@ -1,0 +1,34 @@
+# Git
+.git
+.gitignore
+
+# IDE / OS
+.idea
+.vscode
+*.swp
+.DS_Store
+Thumbs.db
+
+# Flutter (api 빌드 시 제외)
+.dart_tool
+build
+*.iml
+android
+ios
+linux
+macos
+windows
+web
+
+# Backend cache (선택: 포함하면 캐시 유지, 제외하면 매번 비움)
+backend/cache
+backend/**/__pycache__
+
+# Env (실서버에서는 compose에서 마운트)
+.env
+.env.*
+!.env.example
+
+# Docs / 기타
+*.md
+.github

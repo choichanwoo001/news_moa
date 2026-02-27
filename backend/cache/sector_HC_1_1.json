@@ -1,0 +1,101 @@
+{
+  "saved_at": 1772032744.0408735,
+  "data": {
+    "sector_id": "HC_1",
+    "sector_name": "바이오",
+    "category_id": "HC",
+    "category_name": "헬스케어",
+    "articles": [
+      {
+        "title": "코스피 6,000시대 열렸지만 반도체주 과도한 의존 우려",
+        "link": "https://n.news.naver.com/mnews/article/087/0001176442?sid=101",
+        "description": "같은날 도내 상장사 주가를 살펴보면 더존비즈온(0.25%), 삼양식품(0.89%) 등의 주가는 올랐지만, 휴젤(-1.68%), 파마리서치(-2.52%) 에이프릴바이오(-3.56%) 등 바이오기업의 주가는 하락 양상을 보였다. 허재환... ",
+        "pubDate": "Thu, 26 Feb 2026 00:17:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.kwnews.co.kr/page/view/2026022516374267235",
+        "content": null,
+        "related_companies": [
+          "휴젤",
+          "파마리서치",
+          "에이프릴바이오"
+        ],
+        "ai_classification_reason": "바이오기업 주가 하락에 대한 언급이 있어 적합함.",
+        "summary": "바이오기업의 주가는 하락 양상을 보였으며 특히 휴젤, 파마리서치, 에이프릴바오의 주가는 각각 -1.68%, -2.52%, -3.56%를 기록했다."
+      },
+      {
+        "title": "증시 상승 랠리에 강원 상장사 시총 '껑충'",
+        "link": "https://n.news.naver.com/mnews/article/654/0000168265?sid=101",
+        "description": "바이오 및 투자 부문 변동성과 실적 불확실성이 주가에 부담으로 작용했다는 분석이다. 코스닥 시장에서는 바이오·미용의료 업종을 중심으로 성장세가 두드러졌다. 파마리서치는 2024년 말 2조 7273억 원에서 2025년 말... ",
+        "pubDate": "Thu, 26 Feb 2026 00:09:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.kado.net/news/articleView.html?idxno=2035976",
+        "content": null,
+        "related_companies": [
+          "파마리서치"
+        ],
+        "ai_classification_reason": "바이오 및 미용의료 분야의 주가 변동성 언급이 있어 적합함.",
+        "summary": "바이오 및 투자 부문 변동성과 실적 불확실성이 주가에 부담을 주었다."
+      },
+      {
+        "title": "[상한가 종목] 계양전기-서울반도체 이어 엠에스오토텍-위더스제약 등 ...",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=428810",
+        "description": "계양전기 주가흐름 (그래픽=네이버페이 증권 캡처) 25일 상한가 종목은 계양전기, 참엔지니어링, 계양전기우, 서울반도체, 유투바이오, 모베이스전자, 서울바이오시스, 엠에스오토텍, 바이젠셀, 모베이스... ",
+        "pubDate": "Wed, 25 Feb 2026 21:30:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.econonews.co.kr/news/articleView.html?idxno=428810",
+        "content": null,
+        "related_companies": [
+          "유투바이오"
+        ],
+        "ai_classification_reason": "유투바이오의 매매정지 예고로 바이오 섹터에 적합함.",
+        "summary": "유투바이오가 한국거래소에 의해 매매거래정지 예고 대상으로 지정되었다."
+      },
+      {
+        "title": "[EBN 오늘(25일) 이슈 종합] '육천피' 시대의 역설…금융지주 이사회 개...",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700870",
+        "description": "제약바이오주는 시장 전체 흐름과는 엇갈린 모습을 보이고 있다. 같은 업종 안에서도 종목별 주가 흐름이 극명하게 갈리며 'K자형 장세'가 뚜렷해지는 분위기다. ■'가공+신선' 한번에…동원F&B, 내일 '배송 올인원 전략... ",
+        "pubDate": "Wed, 25 Feb 2026 21:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700870",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "제약과 바이오 관련 주가의 차별화가 언급되어 관련성이 인정됨.",
+        "summary": "제약바이오주는 시장 흐름과는 다르게 엇갈린 모습을 보이고 있다."
+      },
+      {
+        "title": "바이오 3곳, 인천 시총 70% 차지…대형주만 웃는다",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1317813",
+        "description": "강병구 인하대 경제학과 교수는 \"바이오 대기업 중심의 주가 상승과 투자가 중소기업과 지역 소득으로 확산되는 경로가 작동해야 지역경제 활성화로 이어질 수 있다\"며 \"반도체처럼 수입 유발형 수출 구조를 가진 산업... ",
+        "pubDate": "Wed, 25 Feb 2026 20:30:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.incheonilbo.com/news/articleView.html?idxno=1317813",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "바이오 대기업이 지역 경제 활성화에 미칠 영향을 언급하여 적합함.",
+        "summary": "바이오 대기업 중심의 주가 상승과 투자가 필요하다는 분석이 나왔다."
+      },
+      {
+        "title": "[공시속보] 유투바이오, 매매거래정지 예고→투자자 경계감 커져",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15984597",
+        "description": "유투바이오(221800)가 한국거래소에 의해 매매거래정지 예고 대상 종목으로 지정됐다고 밝혔다. 한국거래소는... 운영되며, 주가가 일정기간 급등하는 등 투자 유의가 필요한 종목에 적용된다. 시장경보종목 중 투자경고... ",
+        "pubDate": "Wed, 25 Feb 2026 20:28:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.topstarnews.net/news/articleView.html?idxno=15984597",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "매매 거래정지와 관련된 뉴스로 바이오 섹터에 해당함.",
+        "summary": "유투바이오의 매매거래 정지 예고에 대한 경계감이 커지고 있다."
+      }
+    ],
+    "news_volume": 446787.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:01",
+    "sector_briefing": "바이오 섹터는 코스피 상승에도 불구하고 휴젤, 파마리서치의 주가 하락과 변동성이 증가한 상황에 주목하고 있다.",
+    "rising_keywords": [
+      "파마리서치",
+      "휴젤",
+      "에이프릴바이오",
+      "유투바이오"
+    ]
+  }
+}

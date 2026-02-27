@@ -1,0 +1,70 @@
+{
+  "saved_at": 1771958809.5576499,
+  "data": {
+    "sector_id": "FN_1",
+    "sector_name": "은행",
+    "category_id": "FN",
+    "category_name": "금융",
+    "articles": [
+      {
+        "title": "JP모건 체이스 CEO 제이미 다이먼 \"위기 전과 닮았다\"…과열·부채 확대...",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15983607",
+        "description": "인공지능 확산으로 산업 전반의 주가 변동성이 커지는 가운데, 미국 최대 은행 수장이 직접 과열 가능성을 언급하면서 월가의 리스크 인식에도 변화가 감지된다. ○ \"2005~2007년과 닮아\"…자산가격·부채 동시 팽창 경고... ",
+        "pubDate": "Tue, 24 Feb 2026 23:08:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.topstarnews.net/news/articleView.html?idxno=15983607",
+        "content": null,
+        "related_companies": [
+          "JP모건 체이스"
+        ],
+        "ai_classification_reason": "JP모건 체이스 CEO의 발언으로 은행 업계의 리스크 인식 변화와 관련이 있음",
+        "summary": "JP모건 체이스 CEO 제이미 다이먼은 미국 경제의 과열 가능성에 대해 경고하며 2005~2007년의 자산가격 및 부채 동시 팽창과 유사하다고 언급했다."
+      },
+      {
+        "title": "테슬라, 유럽 판매 13개월 연속 감소…中 BYD는 165% 급증",
+        "link": "https://www.newspim.com/news/view/20260224001262",
+        "description": "테슬라 매장 [사진=블룸버그] 네덜란드 ING은행의 운송·물류 부문 선임 이코노미스트 리코 루만은... 테슬라 주가는 이날 개장 전 거래에서 0.5% 하락했다. 연초 이후 낙폭은 약 11%에 이른다. ◆ BYD, 유럽 점유율 1.9%로... ",
+        "pubDate": "Tue, 24 Feb 2026 21:46:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.newspim.com/news/view/20260224001262",
+        "content": null,
+        "related_companies": [
+          "ING"
+        ],
+        "ai_classification_reason": "ING 은행의 경제학자 발언이 금융 관련 이슈와 관련 있음",
+        "summary": "ING은행의 이코노미스트는 테슬라의 판매 감소와 관련된 분석을 통해 금융 시장의 변화에 대한 통찰을 제공하고 있다."
+      },
+      {
+        "title": "애프터마켓서도 '20만전자', '백만닉스' 강세 계속",
+        "link": "https://n.news.naver.com/mnews/article/018/0006223920?sid=101",
+        "description": "하나은행 딜링룸에서 직원이 업무를 보고 있다. (연합뉴스) 24일 오후 8시 넥스트레이드 애프터마켓이 장마감한 가운데, 코스피 지수 상승을 견인한 삼성전자와 SK하이닉스 주가는 정규장 종가보다 상승했다.... ",
+        "pubDate": "Tue, 24 Feb 2026 21:15:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06081126645353800",
+        "content": null,
+        "related_companies": [
+          "하나은행"
+        ],
+        "ai_classification_reason": "하나은행 딜링룸 직원의 업무가 언급되어 금융 관련 내용임",
+        "summary": "하나은행에서 근무하는 직원들이 애프터마켓에서 삼성전자와 SK하이닉스의 주가 상승을 반영한 업무를 수행하고 있다."
+      },
+      {
+        "title": "2026 증시 달굴 ‘IPO 大魚’ 뜯어보니…케뱅·구다이·무신사 兆 단위 ...",
+        "link": "https://n.news.naver.com/mnews/article/024/0000103671?sid=101",
+        "description": "계속해서 부진한 주가를 보이던 카카오뱅크는 최대 실적을 앞세워 주가 반등에 성공했다. 카카오뱅크의 지난해 영업이익은 6494억원, 순이익은 4803억원으로 전년 대비 각각 7%, 9.1% 증가했다. 인터넷전문은행 섹터에... ",
+        "pubDate": "Tue, 24 Feb 2026 21:01:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.mk.co.kr/article/11967254",
+        "content": null,
+        "related_companies": [
+          "카카오뱅크"
+        ],
+        "ai_classification_reason": "카카오뱅크의 실적이 은행 섹터 관련 뉴스로 적합함",
+        "summary": "카카오뱅크는 지난해 영업이익과 순이익이 전년 대비 증가하여 최대 실적을 기록하며 주가 반등에 성공했다."
+      }
+    ],
+    "news_volume": 930733.0,
+    "change_rate": -1.67,
+    "cached_at": "2026-02-25 03:46:49"
+  }
+}

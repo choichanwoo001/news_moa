@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../theme/app_colors.dart';
+import '../theme/app_dimensions.dart';
 
 class CustomTabBar extends StatelessWidget {
   final List<String> tabs;
@@ -16,12 +17,14 @@ class CustomTabBar extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 48,
-      padding: const EdgeInsets.all(4),
+      height: 2.75 * AppDimensions.remBase, // 2.75rem
+      padding: const EdgeInsets.all(AppDimensions.spacingXs),
       decoration: BoxDecoration(
         color: AppColors.surface,
-        borderRadius: BorderRadius.circular(30),
-        border: Border.all(color: AppColors.surfaceHighlight),
+        borderRadius: BorderRadius.circular(AppDimensions.radiusLg),
+        border: Border.all(
+          color: AppColors.surfaceHighlight.withValues(alpha: 0.6),
+        ),
       ),
       child: Row(
         children: tabs.asMap().entries.map((entry) {
@@ -33,29 +36,48 @@ class CustomTabBar extends StatelessWidget {
             child: GestureDetector(
               onTap: () => onTabSelected(index),
               child: AnimatedContainer(
-                duration: const Duration(milliseconds: 200),
+                duration: const Duration(milliseconds: 250),
+                curve: Curves.easeOutCubic,
                 decoration: BoxDecoration(
-                  color: isSelected ? AppColors.surfaceHighlight : Colors.transparent,
-                  borderRadius: BorderRadius.circular(24),
-                  boxShadow: isSelected
-                      ? [
-                          BoxShadow(
-                            color: Colors.black.withOpacity(0.3),
-                            blurRadius: 4,
-                            offset: const Offset(0, 2),
-                          )
-                        ]
-                      : [],
+                  color: isSelected
+                      ? AppColors.tabSelectedBg
+                      : Colors.transparent,
+                  borderRadius: BorderRadius.circular(AppDimensions.radiusMd),
+                  border: isSelected
+                      ? Border.all(
+                          color: AppColors.tabSelectedBorder,
+                          width: 1,
+                        )
+                      : null,
                 ),
                 alignment: Alignment.center,
-                child: Text(
-                  title,
-                  style: TextStyle(
-                    fontFamily: 'Noto Sans KR',
-                    color: isSelected ? AppColors.textPrimary : AppColors.textSecondary,
-                    fontWeight: isSelected ? FontWeight.bold : FontWeight.w500,
-                    fontSize: 15,
-                  ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    // 선택된 탭에 도트 인디케이터
+                    if (isSelected)
+                      Container(
+                        width: 6,
+                        height: 6,
+                        margin: const EdgeInsets.only(right: 6),
+                        decoration: BoxDecoration(
+                          color: AppColors.tabSelectedText,
+                          shape: BoxShape.circle,
+                        ),
+                      ),
+                    Text(
+                      title,
+                      style: TextStyle(
+                        fontFamily: 'Noto Sans KR',
+                        color: isSelected
+                            ? AppColors.tabSelectedText
+                            : AppColors.tabUnselectedText,
+                        fontWeight: isSelected ? FontWeight.w700 : FontWeight.w500,
+                        fontSize: AppDimensions.fontSizeMd,
+                        letterSpacing: isSelected ? 0.5 : 0,
+                      ),
+                    ),
+                  ],
                 ),
               ),
             ),

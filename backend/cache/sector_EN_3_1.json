@@ -1,0 +1,140 @@
+{
+  "saved_at": 1772032788.093965,
+  "data": {
+    "sector_id": "EN_3",
+    "sector_name": "대체에너지",
+    "category_id": "EN",
+    "category_name": "에너지",
+    "articles": [
+      {
+        "title": "전기차 관련주, '덩실덩실' 엠에스오토텍·계양전기·모베이스전·KEC·경...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "description": "엠에스오토텍과 계양전기와 모베이스전자의 주가 상승률은 각각각 30.00%, 29.89%, 29.87%다. 명신산업과 KEC와... 증착필름, 기기용 커패시터(백색가전용 부품), 신재생에너지용 커패시터(친환경자동차 및 태양광발전소... ",
+        "pubDate": "Thu, 26 Feb 2026 00:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "content": null,
+        "related_companies": [
+          "엠에스오토텍",
+          "계양전기",
+          "모베이스전자",
+          "KEC",
+          "명신산업"
+        ],
+        "ai_classification_reason": "전기차와 신재생에너지 관련 부품에 대한 뉴스로 적합",
+        "summary": "엠에스오토텍과 계양전기 및 모베이스전자의 주가가 각각 30% 이상 상승하며 신재생에너지 관련 부품의 수요가 증가하고 있다."
+      },
+      {
+        "title": "수소차 관련주, '웃음꽃' 지아이텍·유일에너테크·뉴인텍·한온시스템...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250301",
+        "description": "지아이텍과 기아와 현대차의 주가 상승률은 각각각 17.32%, 12.70%, 9.16%다. 유일에너테크와 DYP와 일지테크는... 기초소재 부문에서는 PE, PVC, CA, TDI 등 주요 화학제품을, 신재생에너지 부문에서는 태양광 셀·모듈 등... ",
+        "pubDate": "Wed, 25 Feb 2026 18:20:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250301",
+        "content": null,
+        "related_companies": [
+          "지아이텍",
+          "유일에너테크",
+          "뉴인텍",
+          "한온시스템",
+          "기아"
+        ],
+        "ai_classification_reason": "수소차와 신재생에너지 관련 사업에 대한 뉴스이므로 적합",
+        "summary": "지아이텍과 기아 등 수소차 관련 기업의 주가가 상승하면서 신재생에너지 부문의 성장이 기대되고 있다."
+      },
+      {
+        "title": "풍력에너지 관련주, '껑충껑충' 씨엔플러스·현대건설·유니슨·LS머트리...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250298",
+        "description": "씨엔플러스와 현대건설의 주가 상승률은 각각 29.66%, 12.06%다. 씨에스윈드와 SK오션플랜트는 전 거래일 대비... 씨엔플러스는 2020년 풍력 관련 기업 인수 이후 풍력·태양광·ESS 중심의 신재생에너지 분야로 사업을... ",
+        "pubDate": "Wed, 25 Feb 2026 18:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250298",
+        "content": null,
+        "related_companies": [
+          "씨에스윈드",
+          "유니슨"
+        ],
+        "ai_classification_reason": "풍력에너지 관련 기업으로 직접적인 적합성이 있다.",
+        "summary": "씨엔플러스와 현대건설의 주가가 상승하며 풍력 및 태양광 산업의 성장이 두드러지고 있다."
+      },
+      {
+        "title": "2차전지 소재·부품 관련주, '봄날의 햇살' 이랜텍·켐트로스·한농화성...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250215",
+        "description": "동사는 신재생에너지 확산과 AI 데이터센터 전력 수요 증가에 따른 ESS 시장 성장을 기대하며 지속적... 동시에 태양광 패널 프레임 경량화 기술을 확보하고 이를 기반으로 미국 친환경 에너지 정책에 발맞춰 북미... ",
+        "pubDate": "Wed, 25 Feb 2026 00:16:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250215",
+        "content": null,
+        "related_companies": [
+          "이랜텍",
+          "켐트로스",
+          "한농화성",
+          "HD현대일렉트릭",
+          "금양그린파워"
+        ],
+        "ai_classification_reason": "신재생에너지와 관련된 소재 및 기술을 다루고 있어 적합",
+        "summary": "이랜텍은 신재생에너지 확산과 AI 데이터센터 전력 수요 증가에 따라 시장 성장을 기대하고 있다."
+      },
+      {
+        "title": "전력설비 관련주, '껑충껑충' 비츠로시스·대원전선·제룡산업·티씨머...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250214",
+        "description": "비츠로시스와 대원전선의 주가 상승률은 각각 29.93%, 19.67%다. 제룡산업과 지투파워는 전 거래일 대비 각각... 판매, 태양광 및 ESS 등 신재생에너지 관련 사업을 수행하고 있다. 특히 2024년 하반기에는 베트남 꽝짝... ",
+        "pubDate": "Wed, 25 Feb 2026 00:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250214",
+        "content": null,
+        "related_companies": [
+          "비츠로시스",
+          "대원전선",
+          "제룡산업",
+          "지투파워",
+          "SK오션플랜트"
+        ],
+        "ai_classification_reason": "태양광 및 ESS 관련 사업을 수행하고 있어 관련성이 있다.",
+        "summary": "비츠로시스와 대원전선은 신재생에너지 관련 사업으로 주가가 상승하고 있으며, 베트남 시장 진출을 계획하고 있다."
+      },
+      {
+        "title": "태양광에너지 관련주, '맑고 화창' 다원시스·지투파워·신성이엔지·레...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250210",
+        "description": "다원시스와 지투파워와 뉴인텍의 주가 상승률은 각각각 16.28%, 4.89%, 3.90%다. 씨엔플러스와... 국내외 친환경 에너지 전환 흐름 속에서 다스코가 태양광뿐 아니라 다양한 신재생에너지 인프라 구축을 선도하며 산업... ",
+        "pubDate": "Tue, 24 Feb 2026 18:20:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250210",
+        "content": null,
+        "related_companies": [
+          "신성이엔지"
+        ],
+        "ai_classification_reason": "태양광에너지와 신재생에너지 인프라 구축에 대한 내용이라 적합",
+        "summary": "다원시스와 지투파워는 국내외 친환경 에너지 전환 흐름에서 신재생에너지 인프라 구축을 선도하고 있다."
+      },
+      {
+        "title": "AI가 부른 전력 대란... 산일전기가 웃는 이유?",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=431677",
+        "description": "산일전기 주가가 상승을 지속하고 있다. 24일 한국거래소에 따르면 이날 오전 9시44분 현재 0.85% 올라 16만... 일반 변압기와 달리 신재생에너지(태양광·ESS) 및 AI 데이터센터에 특화된 고부가가치 특수변압기 매출 비중이... ",
+        "pubDate": "Tue, 24 Feb 2026 09:50:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=431677",
+        "content": null,
+        "related_companies": [
+          "산일전기"
+        ],
+        "ai_classification_reason": "신재생에너지 특화 변압기를 다루고 있어 관련성이 있다.",
+        "summary": "산일전기가 신재생에너지 및 AI 데이터센터에 특화된 고부가가치 변압기 매출로 주가가 상승하고 있다."
+      }
+    ],
+    "news_volume": 11992.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:46",
+    "sector_briefing": "신재생에너지 관련 기업들이 주가 급등을 경험하며 이 분야의 성장성과 투자 매력에 주목받고 있다.",
+    "rising_keywords": [
+      "엠에스오토텍",
+      "계양전기",
+      "모베이스전자",
+      "KEC",
+      "명신산업",
+      "지아이텍",
+      "유일에너테크",
+      "뉴인텍"
+    ]
+  }
+}

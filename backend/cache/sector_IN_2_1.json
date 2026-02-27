@@ -1,0 +1,114 @@
+{
+  "saved_at": 1772032779.181504,
+  "data": {
+    "sector_id": "IN_2",
+    "sector_name": "기계",
+    "category_id": "IN",
+    "category_name": "산업재",
+    "articles": [
+      {
+        "title": "방위산업·전쟁·테러 관련주, '봄날의 햇살' 그린광학카티스·우리기술...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250305",
+        "description": "한화와 HJ중공업과 카티스의 주가 상승률은 각각각 5.38%, 3.41%, 1.49%다. 코콤과 한화시스템과 우리기술은 전... 기존의 전방산업인 공작기계 및 일반기계 부품 매출을 꾸준히 유지하려고 노력하면서, IT부품, 반도체... ",
+        "pubDate": "Thu, 26 Feb 2026 00:16:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250305",
+        "content": null,
+        "related_companies": [
+          "한화",
+          "HJ중공업",
+          "우리기술",
+          "코콤",
+          "한화시스템"
+        ],
+        "ai_classification_reason": "기사가 방위산업 및 기계 부품 매출을 다루고 있어 기계 섹터와 관련이 있음.",
+        "summary": "방위산업 관련 기업인 한화와 HJ중공업의 주가 상승률이 각각 5.38%, 3.41%에 달하며, 기계 부품 매출도 꾸준히 유지하려는 노력이 이어지고 있다."
+      },
+      {
+        "title": "전기차 관련주, '덩실덩실' 엠에스오토텍·계양전기·모베이스전·KEC·경...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "description": "엠에스오토텍과 계양전기와 모베이스전자의 주가 상승률은 각각각 30.00%, 29.89%, 29.87%다. 명신산업과 KEC와... 회사는 범용전동기, 서보·로봇, 모빌리티 사업을 영위하며 국내 범용전동기 시장에서 효성중공업... ",
+        "pubDate": "Thu, 26 Feb 2026 00:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "content": null,
+        "related_companies": [
+          "효성중공업"
+        ],
+        "ai_classification_reason": "전기차 및 전동기 관련 뉴스로 기계 업종과 직접 연관되어 있음.",
+        "summary": "엠에스오토텍과 계양전기가 각각 30% 넘는 주가 상승률을 기록하며, 효성중공업은 범용전동기 시장에서 주요 기업으로 거론되고 있다."
+      },
+      {
+        "title": "로봇·산업용·협동로봇 관련주, '함박웃음' 계양전기·아이엘·씨피시...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "description": "계양전기와 아이엘과 에스엘의 주가 상승률은 각각각 29.89%, 22.95%, 17.97%다. 앤로보틱스와 에스피지와... 우림피티에스는 삼성중공업과 협업을 통해 로봇용 정밀감속기를 개발해 왔고, 보스턴다이내믹스에도 이를... ",
+        "pubDate": "Thu, 26 Feb 2026 00:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "content": null,
+        "related_companies": [
+          "삼성중공업"
+        ],
+        "ai_classification_reason": "로봇 및 산업기계 관련 기업들의 내용이 포함되어 있어 기계 섹터에 해당함.",
+        "summary": "계양전기와 아이엘의 주가가 상승하고 있으며, 우림피티에스는 삼성중공업과 협업하여 로봇용 감속기를 개발 중이다."
+      },
+      {
+        "title": "코스피 사상 최초 6000 돌파…G20 중 수익률 '압도적 1위'",
+        "link": "https://n.news.naver.com/mnews/article/243/0000093650?sid=101",
+        "description": "반면 한화에어로스페이스(-2.34%), HD현대중공업(-0.34%)은 하락했다. 한국거래소는 코스피 시가총액이... 조선·원전(기계·장비) 및 건설 업종이 상승세를 나타냈다\"고 밝혔다. 이어 \"주주가치 제고 및 불공정 거래... ",
+        "pubDate": "Wed, 25 Feb 2026 18:01:00 +0900",
+        "source": "Naver",
+        "original_link": "https://economist.co.kr/article/view/ecn202602250074",
+        "content": null,
+        "related_companies": [
+          "현대중공업"
+        ],
+        "ai_classification_reason": "조선 및 기계 분야의 기업으로 기계 섹터와 직접 연관됨.",
+        "summary": "한화에어로스페이스와 HD현대중공업의 주가가 하락한 가운데, 이들 기업은 기계 및 장비 분야에 속한다."
+      },
+      {
+        "title": "한전기술·서전기전 주가 방긋... 원전 설계 및 수배전반 핵심 기술주에...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432192",
+        "description": "원자력 컴프레서 전문 한신기계와 원전 정비 전문 한전KPS, 수배전반 제조사 광명전기가 상승세다. 발전소 유지보수의 금화피에스시와 초고압 케이블 전문 대한전선, 변압기 강자 효성중공업 역시 강세를 보이고 있다.... ",
+        "pubDate": "Wed, 25 Feb 2026 14:46:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432192",
+        "content": null,
+        "related_companies": [
+          "효성중공업"
+        ],
+        "ai_classification_reason": "원전 및 기계 관련 기술 주제 및 기업들이 포함되어 있음.",
+        "summary": "원자력 관련 기업들이 주가 상승세를 보이고 있으며, 한신기계와 한전KPS가 주요 기업으로 언급되고 있다."
+      },
+      {
+        "title": "전자부품서 풍력까지… 씨엔플러스, 사업 다각화로 체질 개선",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432074",
+        "description": "해상풍력 단지 조성 확대와 터빈, 타이어, 하부구조물 등 핵심 기자재 수출 증가 전망이 주가 상승의 강력한... 서암기계공업이 거래되고 있다. 선박 및 풍력 구조물 전문 세진중공업과 단조 부품사 포메탈, 특수강 전문... ",
+        "pubDate": "Wed, 25 Feb 2026 10:10:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432074",
+        "content": null,
+        "related_companies": [
+          "서암기계공업",
+          "세진중공업"
+        ],
+        "ai_classification_reason": "풍력 및 기계장비 관련 기업들이 포함되어 있어 기계 섹터와 직접 연관됨.",
+        "summary": "서암기계공업과 세진중공업이 풍력 사업과 관련하여 주목받고 있으며, 사업 다각화가 이뤄지고 있다."
+      }
+    ],
+    "news_volume": 30084.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:37",
+    "sector_briefing": "방위산업 주가 상승과 전기차 관련주 강세로 기계 섹터가 부각된 상황.",
+    "rising_keywords": [
+      "효성중공업",
+      "한화",
+      "HJ중공업",
+      "우리기술",
+      "코콤",
+      "한화시스템",
+      "삼성중공업",
+      "현대중공업"
+    ]
+  }
+}

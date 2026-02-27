@@ -1,0 +1,61 @@
+{
+  "saved_at": 1772032759.933059,
+  "data": {
+    "sector_id": "CM_2",
+    "sector_name": "미디어",
+    "category_id": "CM",
+    "category_name": "커뮤니케이션",
+    "articles": [
+      {
+        "title": "초록뱀미디어, 영업이익 29억1237만1801원…전년 대비 흑자전환",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634555",
+        "description": "상장정보를 보면 초록뱀미디어는 2002년 12월 24일 코스닥에 상장된 영화 비디오물 방송프로그램 제작 및 배급업체다. 종목 시세 정보에 따르면 초록뱀미디어의 주가는 2월 25일 16시 10분 기준 4485원이며... ",
+        "pubDate": "Wed, 25 Feb 2026 19:40:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634555",
+        "content": null,
+        "related_companies": [
+          "초록뱀미디어"
+        ],
+        "ai_classification_reason": "미디어 제작 및 배급업체의 수익 관련 뉴스",
+        "summary": "초록뱀미디어는 2022년 대비 흑자 전환을 기록하며 영업이익이 29억1237만1801원에 달했다."
+      },
+      {
+        "title": "“당장 매수!!” “예스”…아침 8시, 유튜브는 ‘주튜브’ 된다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003504988?sid=101",
+        "description": "23일 주가가 2.8% 내린 데 이어 24일 6.2% 더 하락했다. 범죄로 이어지는 경우도 있다. 구독자가 50만 명이 넘는 채널을 운영한 유튜버 김정환씨는 2021년 6월부터 약 1년간 자신이 보유한 5개 종목을 방송에서 추천하면서... ",
+        "pubDate": "Wed, 25 Feb 2026 00:02:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.joongang.co.kr/article/25407077",
+        "content": null,
+        "related_companies": [
+          "유튜브"
+        ],
+        "ai_classification_reason": "유튜브 채널 주가 및 유튜브 콘텐츠 관련 뉴스",
+        "summary": "구독자 50만 명이 넘는 유튜버가 추천한 종목으로 주가에 변동이 있었다."
+      },
+      {
+        "title": "'주식하면 패가망신' 옛말…\"지금 사요?\" 오전 8시, 유튜브 몰린다",
+        "link": "https://n.news.naver.com/mnews/article/025/0003504913?sid=101",
+        "description": "23일 주가가 2.8% 내린 데 이어 24일 6.2% 더 하락했다. 범죄로 이어지는 경우도 있다. 구독자 50만 명이 넘는 채널을 운영한 ‘슈퍼개미’ 유튜버 김정환씨는 2021년 6월부터 약 1년간 자신이 보유한 5개 종목을 방송에서... ",
+        "pubDate": "Tue, 24 Feb 2026 17:47:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.joongang.co.kr/article/25406995",
+        "content": null,
+        "related_companies": [
+          "유튜브"
+        ],
+        "ai_classification_reason": "유튜브 채널 운영 관련 뉴스",
+        "summary": "유튜버 김정환 씨는 자신의 보유 종목을 방송에서 추천해 주가에 영향을 미쳤다."
+      }
+    ],
+    "news_volume": 32630.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:18",
+    "sector_briefing": "초록뱀미디어의 흑자 전환과 유튜버들의 주식 추천을 통한 주가 변동이 주목받는 상황이다.",
+    "rising_keywords": [
+      "유튜브",
+      "초록뱀미디어"
+    ]
+  }
+}

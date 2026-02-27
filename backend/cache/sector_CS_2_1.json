@@ -1,0 +1,160 @@
+{
+  "saved_at": 1772032766.0314002,
+  "data": {
+    "sector_id": "CS_2",
+    "sector_name": "생활용품",
+    "category_id": "CS",
+    "category_name": "필수소비재",
+    "articles": [
+      {
+        "title": "[특징주 & 리포트] '삼성전기, 5거래일째 최고가 경신' 등",
+        "link": "https://n.news.naver.com/mnews/article/015/0005255228?sid=101",
+        "description": "인공지능(AI) 데이터센터 확산에 따른 적층세라믹커패시터(MLCC) 수요 확대와 가격 인상 기대가 주가를... ● 대통령 언급에 깨끗한나라 급등 생활 위생용품 제조사인 깨끗한나라가 8.98% 급등해 2100원으로 거래를... ",
+        "pubDate": "Wed, 25 Feb 2026 17:28:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.hankyung.com/article/2026022548131",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "기사의 핵심이 생활위생용품 제조사인 깨끗한나라의 주가 상승과 관련되어 있음.",
+        "summary": "삼성전기와 함께 깨끗한나라의 주가는 각각 8.98% 상승하며 시장의 주목을 받고 있다."
+      },
+      {
+        "title": "[특징주] '저가 생리대' 깨끗한나라, 李대통령 \"감사\"에 9% 상승(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0015924420?sid=101",
+        "description": "생활위생용품 제조사인 깨끗한나라 주가가 25일 9% 가까이 상승했다. 한국거래소에 따르면 이날 깨끗한나라는 전 거래일 대비 8.98% 오른 2천100원에 거래를 마쳤다. 이는 이재명 대통령이 저가 생리대를 선보이겠다고... ",
+        "pubDate": "Wed, 25 Feb 2026 16:24:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.yna.co.kr/view/AKR20260225038251008?input=1195m",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "저가 생리대 출시와 관련된 생활용품 뉴스이기 때문.",
+        "summary": "생활위생용품 제조사 깨끗한나라의 주가가 이재명 대통령의 저가 생리대 발표로 인해 9% 가까이 상승하였다."
+      },
+      {
+        "title": "더블유에스아이, 지난해 당기순손실 32억4646만5294원…전년 대비 적자전...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634260",
+        "description": "종목 시세 정보에 따르면 더블유에스아이의 주가는 2월 25일 14시 50분 기준 3235원이며, 전일 대비 20원(+0.62%) 상승했다. 더블유에스아이는 2018년 9월 21일 코스닥시장에 상장된 생활용품 도매업 업체다.... ",
+        "pubDate": "Wed, 25 Feb 2026 15:06:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634260",
+        "content": null,
+        "related_companies": [
+          "더블유에스아이"
+        ],
+        "ai_classification_reason": "생활용품 도매업체와 관련된 내용을 다루고 있기 때문.",
+        "summary": "더블유에스아이의 지난해당기순손실이 32억 원에 달하며, 주가는 소폭 상승했다."
+      },
+      {
+        "title": "청담글로벌 주요주주 구상모, 청담글로벌 주식등의 수 변동 없어…총 지...",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634250",
+        "description": "종목 시세 정보에 따르면 청담글로벌의 주가는 02월 25일 14시 50분 기준 5620원이며, 전일 대비 50원(-0.88%) 하락했다. 청담글로벌은 2022년 6월 3일 코스닥 시장에 상장된 생활용품 도매업체다. 주식등의대량보유상황보고서... ",
+        "pubDate": "Wed, 25 Feb 2026 15:06:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634250",
+        "content": null,
+        "related_companies": [
+          "청담글로벌"
+        ],
+        "ai_classification_reason": "청담글로벌 또한 생활용품 도매업체로 관련성이 있음.",
+        "summary": "청담글로벌의 주요주주가 주식 변동이 없으며 현재 주가는 하락세를 보이고 있다."
+      },
+      {
+        "title": "[ET특징주] 깨끗한나라 '다이소 100원 생리대' 출시 발표… 李 대통령 감...",
+        "link": "https://n.news.naver.com/mnews/article/030/0003401882?sid=101",
+        "description": "생활위생용품 제조사인 깨끗한나라가 저가 생리대를 출시한데 대해 이재명 대통령이 감사 인사를 전하자 주가가 상승했다. 25일 오전 11시 23분 기준 깨끗한나라(004540) 주가는 전 거래일 대비 5.09% 상승한 2025원에... ",
+        "pubDate": "Wed, 25 Feb 2026 13:01:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.etnews.com/20260225000209",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "저가 생리대와 관련된 기사로 생활위생용품 섹터에 적합함.",
+        "summary": "깨끗한나라가 저가 생리대 출시 소식으로 인해 주가가 5.09% 상승하였다."
+      },
+      {
+        "title": "[특징주] 깨끗한나라, 李 대통령 '100원 생리대 감사\" SNS 글에 '강세'",
+        "link": "https://www.g-enews.com/view.php?ud=2026022509590750644093b5d4e_1",
+        "description": "생활위생용품 제조사 깨끗한나라가 강세다. 이재명 대통령이 사회관계망서비스(SNS)에서 저가 생리대를... 주가는 장중 2150원까지 오르기도 했다. 이 대통령은 엑스(X·옛 트위터)에 깨끗한나라가 다이소와 손잡고... ",
+        "pubDate": "Wed, 25 Feb 2026 10:22:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.g-enews.com/view.php?ud=2026022509590750644093b5d4e_1",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "이재명 대통령의 SNS 언급으로 깨끗한나라가 주목받고 있기 때문.",
+        "summary": "깨끗한나라의 주가는 이재명 대통령의 저가 생리대 언급으로 인해 상승세를 이어가고 있다."
+      },
+      {
+        "title": "[특징주] 깨끗한나라, 李 대통령 SNS 100원 생리대 언급에 장 초반 강세",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=708157",
+        "description": "생활위생용품 전문 기업 깨끗한나라 주가가 장 초반 상승 흐름을 타고 있다. 25일 한국거래소에 따르면 오전 9시35분 기준 깨끗한나라는 전 거래일 대비 83원(4.31%) 상승한 2010원에 거래 중이다. 장 중 2150원까지... ",
+        "pubDate": "Wed, 25 Feb 2026 10:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.seoulwire.com/news/articleView.html?idxno=708157",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "생활위생용품 제조사에 대한 주가에 대한 기사로 적합함.",
+        "summary": "깨끗한나라가 이재명 대통령의 '100원 생리대' 언급 후 주가가 강세를 보이고 있다."
+      },
+      {
+        "title": "[특징주] 깨끗한나라 주가 오름세…李대통령 감사 표시에 주목",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=73379",
+        "description": "/사진=이재명 대통령  생활위생용품 제조사인 깨끗한나라의 주가가 25일 장 초반 오르고 있다. 한국거래소에 따르면 깨끗한나라는 이날 오전 9시 8분 현재 전 거래일 대비 3.48% 오른 1천994원에 거래되고 있다. 이는... ",
+        "pubDate": "Wed, 25 Feb 2026 10:04:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.issuenbiz.com/news/articleView.html?idxno=73379",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "주가 상승 요인으로 대통령 감사 언급이 중요한 기사임.",
+        "summary": "깨끗한나라의 주가는 이재명 대통령의 감사 언급으로 인해 6% 이상 상승하였다."
+      },
+      {
+        "title": "[특징주] '100원 생리대' 깨끗한나라, 李대통령 \"감사하다\"에 6%대↑",
+        "link": "https://www.ajunews.com/view/20260225095251340",
+        "description": "아주경제=양보연 기자 byeony@ajunews.com 생활위생용품 제조사 깨끗한나라가 장 초반 6% 넘게 오르고 있다.... 주가는 장중 2150원까지 오르기도 했다. 이 대통령은 엑스(X·옛 트위터)에 깨끗한나라가 다이소와 손잡고... ",
+        "pubDate": "Wed, 25 Feb 2026 09:56:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ajunews.com/view/20260225095251340",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": "생활위생용품과 관련된 강세 주가 뉴스로 적합함.",
+        "summary": "깨끗한나라 주가는 이재명 대통령의 감사 메시지 영향으로 전 하루 대비 상승하고 있다."
+      },
+      {
+        "title": "李대통령 \"감사하다\" 한 마디에...주가 상승",
+        "link": "https://n.news.naver.com/mnews/article/215/0001242937?sid=101",
+        "description": "'6천피 시대'를 개막한 국내 증시에서 생활위생용품 제조사인 깨끗한나라의 주가가 25일 장 초반 올라 이목을 끌고 있다. 깨끗한나라는 이날 오전 9시 8분 현재 전 거래일 대비 3.48% 오른 1천994원에 거래되고 있다.... ",
+        "pubDate": "Wed, 25 Feb 2026 09:34:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202602250297&t=NN",
+        "content": null,
+        "related_companies": [
+          "깨끗한나라"
+        ],
+        "ai_classification_reason": null,
+        "summary": null
+      }
+    ],
+    "news_volume": 16764.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:23",
+    "sector_briefing": "깨끗한나라가 저가 생리대 출시 및 이재명 대통령의 감사 발언으로 주가가 상승하며 필수소비재 섹터에 주목받고 있다.",
+    "rising_keywords": [
+      "깨끗한나라",
+      "더블유에스아이",
+      "청담글로벌"
+    ]
+  }
+}

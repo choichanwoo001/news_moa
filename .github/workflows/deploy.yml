@@ -1,0 +1,31 @@
+# News Moa - 미니 서버 배포 (SSH + docker-compose)
+name: Deploy to Server
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+env:
+  DEPLOY_PATH: /opt/news_moa
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT || 22 }}
+          script: |
+            set -e
+            cd ${{ env.DEPLOY_PATH }} || { echo "Directory missing. Clone repo first."; exit 1; }
+            git fetch origin
+            git reset --hard origin/main
+            if [ -f .env ]; then echo ".env exists"; else echo "Create .env from backend/.env.example"; fi
+            docker compose build
+            docker compose up -d
+            docker image prune -f

@@ -1,0 +1,88 @@
+{
+  "saved_at": 1772032801.2030087,
+  "data": {
+    "sector_id": "RE_3",
+    "sector_name": "투자",
+    "category_id": "RE",
+    "category_name": "부동산",
+    "articles": [
+      {
+        "title": "코스피 '6천 잔치', 초대 못 받는 '신불' 100만",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=667396",
+        "description": "이후 코스피는 12거래일 연속 주가가 상승했고, 1월 22일에는 장중 5019.54까지 오르며 '꿈의 5천피'를... 부동산 한 전문가는 \"코스피 6000을 돌파하며 주식 투자자는 유례 없는 호황기를 누리고 있지만, 정작 실물... ",
+        "pubDate": "Thu, 26 Feb 2026 00:08:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.gjdream.com/news/articleView.html?idxno=667396",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "코스피 상승과 주식 투자에 대한 언급이 있으나 부동산과의 직접적인 연결성이 부족함.",
+        "summary": "코스피가 12거래일 연속 상승했으나 실물경제와 연결된 '신불' 문제는 여전하다."
+      },
+      {
+        "title": "[기자의 눈] 6000피 시대 '부동산 신화' 깨고 '자본시장 민주화'로",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=102161",
+        "description": "최근까지 서민들에게 '부의 사다리'는 오직 아파트 청약이나 부동산 투자뿐이었다. 그마저 가파른 아파트... 지배구조가 주가 상승의 보증수표'임을 증명했다. 공공뉴스 산업부 이화종 기자 불과 1년 전만 해도 글로벌... ",
+        "pubDate": "Wed, 25 Feb 2026 22:46:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.00news.co.kr/news/articleView.html?idxno=102161",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "부동산 투자와 자본시장 민주화에 대한 논의가 주된 내용.",
+        "summary": "서민들이 부의 사다리로 아파트 청약과 부동산 투자에 의존하던 상황이 변화하고 있다."
+      },
+      {
+        "title": "부동산·가상자산 떠나 주식으로…‘머니 무브’",
+        "link": "https://n.news.naver.com/mnews/article/056/0012131174?sid=101",
+        "description": "[20대 주식 투자자 : \"뉴스에 나오는 주식 수익률을 비교해 봤을 때 확실히 뒤처진다는 느낌이 드니까 저는... 고강도 부동산 규제와 주가 급등이 함께 빚어낸 현상입니다. 배당소득 분리과세 등 주식시장을 떠받치는... ",
+        "pubDate": "Wed, 25 Feb 2026 21:04:00 +0900",
+        "source": "Naver",
+        "original_link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8493763&ref=A",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "부동산에서 주식으로의 자금 이동을 다루고 있어 관련성이 있음.",
+        "summary": "부동산 규제로 인해 20대 주식 투자자들이 주식 시장으로 눈을 돌리고 있다."
+      },
+      {
+        "title": "자본 선진화 정책 “땡큐” 금융지주 시총 추월…증권주 ‘뜨거운 계절...",
+        "link": "https://n.news.naver.com/mnews/article/024/0000103697?sid=101",
+        "description": "금리 변화에 따라 주식 시장 변동성이 확대되면 증권주가 직접적인 타격을 볼 수 있기 때문이다. 한 증권사 애널리스트는 “금리가 상승하면 주식 투자 심리가 위축되고 부동산 프로젝트파이낸싱(PF) 등 IB 사업 조달... ",
+        "pubDate": "Wed, 25 Feb 2026 21:01:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.mk.co.kr/article/11967256",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "부동산 프로젝트 파이낸싱 관련 언급이 있어 투자 섹터와 관계있음.",
+        "summary": "금리가 상승하면 주식 시장이 위축되며, 부동산 프로젝트 파이낸싱에 영향을 미칠 수 있다."
+      },
+      {
+        "title": "‘자사주 소각 의무화’ 다음은 ‘주가 누르기 방지법’",
+        "link": "https://n.news.naver.com/mnews/article/032/0003429789?sid=100",
+        "description": "“최근 부동산에서 주식시장, 생산적 금융으로 돈 줄기가 흘러가는 현상은 굉장히 고무적”이라고 말했다고 이규연 청와대 홍보소통수석은 전했다. 이 대통령은 또 주가조작 신고포상금을 크게 늘린 이억원... ",
+        "pubDate": "Wed, 25 Feb 2026 20:20:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.khan.co.kr/article/202602252020005",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "부동산에서 주식시장으로 자금 이동에 대한 긍정적 시사가 포함됨.",
+        "summary": "부동산에 묶여 있던 자금이 자본시장으로 흘러가는 움직임이 포착되고 있다."
+      },
+      {
+        "title": "6천피 뚫은 날 ‘자사주 소각’ 의무화…3차 상법개정안 본회의 통과",
+        "link": "https://n.news.naver.com/mnews/article/009/0005642110?sid=101",
+        "description": "주가 상승에 긍정적 요인으로 작용한다. 배당 총액을 유지하더라도 주당 배당금이 증가하는 점 역시 투자자... 최근 주가 상승에 대해 “부동산에 묶여 있던 돈이 생산적 자본시장으로 흘러가는 조짐이 나타나는 것은 매우... ",
+        "pubDate": "Wed, 25 Feb 2026 20:17:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.mk.co.kr/article/11972080",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "부동산 자산 탈출과 자산 시장 변화에 대한 내용이 있어 관련성이 있음.",
+        "summary": "개미 투자자들이 주식시장의 변화에 중요한 역할을 하고 있으며 자산 이동이 진행되고 있다."
+      }
+    ],
+    "news_volume": 216625.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:59",
+    "sector_briefing": "부동산 투자자금이 증권시장으로 이동하며 자본시장 민주화에 주목받는 상황이다.",
+    "rising_keywords": []
+  }
+}

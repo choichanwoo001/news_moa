@@ -1,0 +1,121 @@
+{
+  "saved_at": 1772032737.8314264,
+  "data": {
+    "sector_id": "IT_3",
+    "sector_name": "하드웨어",
+    "category_id": "IT",
+    "category_name": "IT",
+    "articles": [
+      {
+        "title": "로봇·산업용·협동로봇 관련주, '함박웃음' 계양전기·아이엘·씨피시...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "description": "이를 통해 로봇 하드웨어 판매 이후에도 데이터와 운영 서비스 매출이 지속적으로 발생하는 반복형 수익... 지난 12일부터 13일까지 이틀간 장내에서 주식을 취득해 보유 주식 수는 22만7739주로 증가했다. 지분율은 0.43... ",
+        "pubDate": "Thu, 26 Feb 2026 00:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "content": null,
+        "related_companies": [
+          "계양전기",
+          "아이엘",
+          "씨피시"
+        ],
+        "ai_classification_reason": "하드웨어 관련 기업들이 언급된 뉴스입니다.",
+        "summary": "로봇 및 산업용 하드웨어의 판매가 지속적인 수익을 창출하고 있으며, 최근 주식 취득에 대한 소식이 전해졌다."
+      },
+      {
+        "title": "“기본급 최대 10억, 주식 보상 21억”…업계 최고라는 이 회사",
+        "link": "https://n.news.naver.com/mnews/article/018/0006224754?sid=104",
+        "description": "하드웨어 엔지니어는 최대 55만5000달러(약 7억9000만원), 소프트웨어 엔지니어는 17만~49만 달러(약... 주식 보상이나 별도의 보너스는 이 금액에 포함되지 않았다. 월스트리트저널(WSJ)에 따르면 오픈AI 소속... ",
+        "pubDate": "Wed, 25 Feb 2026 21:19:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06507526645354128",
+        "content": null,
+        "related_companies": [
+          "오픈AI"
+        ],
+        "ai_classification_reason": "하드웨어 엔지니어 관련 임금이 언급된 기사입니다.",
+        "summary": "오픈AI의 하드웨어 엔지니어가 최대 55만5000달러의 연봉을 받고 있으며, 주식 보상도 포함되지 않았다."
+      },
+      {
+        "title": "얼마나 더 오를까…더 높아지는 증권가 전망 \"7800도 가능\"",
+        "link": "https://www.ajunews.com/view/20260225145028657",
+        "description": "반도체 업황의 구조적 변화, 주주환원 강화 등 정책 변화, 주식시장 자금 쏠림이 동시에 작용해 이뤄낸... 조수홍 NH투자증권 리서치센터장은 \"AI 관련 하드웨어 수요에 대한 높은 신뢰, 기업 거버넌스의 질적 개선으로... ",
+        "pubDate": "Wed, 25 Feb 2026 19:12:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ajunews.com/view/20260225145028657",
+        "content": null,
+        "related_companies": [
+          "AMD",
+          "메타"
+        ],
+        "ai_classification_reason": "하드웨어를 포함한 기업 간 협업과 제품 매입이 다루어졌습니다.",
+        "summary": "AMD와 메타 사이의 하드웨어 공급 계약이 이루어지고 있으며, 양사 모두 협력하여 AI 관련 제품을 발전시키고 있다."
+      },
+      {
+        "title": "SI(시스템통합) 관련주, '콧노래 룰루랄라' 나무기술·현대무벡스·DB·현...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250299",
+        "description": "나무기술은 이번 실적이 저마진 하드웨어 중심 사업 구조를 고부가가치 소프트웨어 중심 체제로... 태웅은 1981년 태웅단조공업사로 설립된 후 1989년 주식회사 태웅으로 상호를 변경하고, 2001년 코스닥 시장에 상장된... ",
+        "pubDate": "Wed, 25 Feb 2026 18:16:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250299",
+        "content": null,
+        "related_companies": [
+          "NVIDIA"
+        ],
+        "ai_classification_reason": "AI 하드웨어 수요에 대한 전망이 언급되었기 때문입니다.",
+        "summary": "NVIDIA와 관련된 기업들이 AI 하드웨어 수요 증가에 따라 주목받고 있으며, 이와 관련된 전망이 긍정적이다."
+      },
+      {
+        "title": "'엔비디아 천하' 흔들리나…역대급 동맹 출범에 中도 '긴장'",
+        "link": "https://n.news.naver.com/mnews/article/015/0005255134?sid=101",
+        "description": "이는 AMD 전체 주식 가운데 약 10%에 해당한다. 메타의 실제 제품 매입 물량과 주가 등 조건에 따라 AMD... 메타는 파트너사들에서 공급받은 하드웨어를 '메타 학습·추론 가속기(MTIA)' 프로그램과 결합하고 있다. 中... ",
+        "pubDate": "Wed, 25 Feb 2026 16:38:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.hankyung.com/article/202602254506g",
+        "content": null,
+        "related_companies": [
+          "오픈AI"
+        ],
+        "ai_classification_reason": "오픈AI의 하드웨어 임금에 관한 기사입니다.",
+        "summary": "오픈AI의 연구직에서 하드웨어 엔지니어가 최대 55만5000달러를 받는 것으로 나타났다."
+      },
+      {
+        "title": "코스피 6100선 돌파 \"8000 간다\"…반도체 랠리·상법 개정 '쌍끌이'",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=125043",
+        "description": "이정빈 신한투자증권 연구원은 현재 증시 상황에 대해 \"현재 국내 주식시장은 추세 종료가 아니라 확장... 반도체·IT하드웨어 등 일부 업종은 순매수를 지속 중\"이라고 설명했다. 반면, 지수 하락에 베팅하는 자금도... ",
+        "pubDate": "Wed, 25 Feb 2026 16:30:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ziksir.com/news/articleView.html?idxno=125043",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "하드웨어와 소프트웨어의 발전 경쟁을 언급하면서 관련된 기사를 다룹니다.",
+        "summary": "AI가 하드웨어와 소프트웨어의 양축에서 경쟁하며 기회를 창출하는 것이 강조되었다."
+      },
+      {
+        "title": "\"기본급 최대 10억\" 오픈AI 연구직, 실리콘밸리 최고 수준 보상",
+        "link": "https://n.news.naver.com/mnews/article/014/0005482781?sid=104",
+        "description": "하드웨어 엔지니어는 최대 55만 5000달러, 소프트웨어 엔지니어는 17만~49만 달러 사이에서 형성됐다.... 주식 보상이나 별도의 보너스는 이 금액에 포함되지 않았다. 월스트리트저널(WSJ)에 따르면 오픈AI 소속 직원... ",
+        "pubDate": "Wed, 25 Feb 2026 16:04:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.fnnews.com/news/202602251539120556",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "우주 산업과 관련된 하드웨어 소식입니다.",
+        "summary": "우주 경제가 하드웨어와 소재, 부품을 포함하는 실적 기반의 수익성으로 변화하고 있다."
+      }
+    ],
+    "news_volume": 29654.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:18:56",
+    "sector_briefing": "로봇 및 AI 하드웨어의 수요 증가와 관련 기업들의 긍정적 전망에 주목받고 있다.",
+    "rising_keywords": [
+      "오픈AI",
+      "계양전기",
+      "아이엘",
+      "씨피시",
+      "AMD",
+      "메타",
+      "NVIDIA"
+    ]
+  }
+}

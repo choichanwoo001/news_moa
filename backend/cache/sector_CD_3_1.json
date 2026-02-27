@@ -1,0 +1,90 @@
+{
+  "saved_at": 1772032759.9539332,
+  "data": {
+    "sector_id": "CD_3",
+    "sector_name": "호텔",
+    "category_id": "CD",
+    "category_name": "임의소비재",
+    "articles": [
+      {
+        "title": "[유통갤러리] 롯데온, \"사전 알림 신청하면 두쫀쿠 드려요\" 外",
+        "link": "https://theviewers.co.kr/View.aspx?No=3983578",
+        "description": "◆배상면주가 홈술닷컴, 소주·약주 2주 기획전…전통주 온라인 판 키운다 배상면주가의 홈술닷컴에서는... ◆이랜드파크, 사이판 2026 상반기 메가 얼리버드 프로모션 이랜드파크의 해외 호텔리조트 법인... ",
+        "pubDate": "Wed, 25 Feb 2026 09:50:00 +0900",
+        "source": "Naver",
+        "original_link": "https://theviewers.co.kr/View.aspx?No=3983578",
+        "content": null,
+        "related_companies": [
+          "이랜드파크"
+        ],
+        "ai_classification_reason": "해외 호텔 리조트에 대한 프로모션은 호텔 섹터와 직접적으로 관련됨",
+        "summary": "이랜드파크는 사이판에서 진행하는 메가 얼리버드 프로모션을 발표했습니다."
+      },
+      {
+        "title": "AI 발전으로 인한 경제 붕괴 가상 시나리오",
+        "link": "https://byline.network/?p=9004111222593527",
+        "description": "주가가 폭락하고 고객 확보가 어려워지는 상황에서 SaaS 기업들이 할 수 있는 일은 인력을 줄이고, 절감액을... 가장 먼저 타격을 받은 건 여행 예약 플랫폼이었다. 에이전트가 항공편, 호텔, 교통, 마일리지 최적화까지... ",
+        "pubDate": "Tue, 24 Feb 2026 16:58:00 +0900",
+        "source": "Naver",
+        "original_link": "https://byline.network/?p=9004111222593527",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "호텔 관련 서비스와 고객 영향 언급",
+        "summary": "여행 예약 플랫폼이 경제 위기로 인해 타격을 받았으며, 호텔 서비스 개선이 필요하다는 내용이 포함되어 있습니다."
+      },
+      {
+        "title": "멕시코 카르텔 난동에 항공편 줄취소…관광객 발 묶이고 항공·숙박株 ...",
+        "link": "https://n.news.naver.com/mnews/article/018/0006223338?sid=101",
+        "description": "미 의회도 여행자들에게 긴급상황 발생시 연락 지원을 제공하는 ‘스마트 여행자 등록 프로그램’(STEP)... 힐튼(-1.3%), 메리어트(-1.5%), 에어비앤비(-3.9%) 등 호텔·숙박 관련 업체들의 주가도 하락했다. 주요 호텔 체인들은... ",
+        "pubDate": "Tue, 24 Feb 2026 09:45:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03453846645353800",
+        "content": null,
+        "related_companies": [
+          "힐튼",
+          "메리어트",
+          "에어비앤비"
+        ],
+        "ai_classification_reason": "호텔 관련 주가 하락 소식은 호텔 섹터에 직접 영향을 미침",
+        "summary": "멕시코 카르텔의 난동으로 인해 힐튼, 메리어트, 에어비앤비 등 호텔 관련 기업의 주가가 하락했습니다."
+      },
+      {
+        "title": "BTS 컴백에 벌써부터 유통가는 '들썩'...'BTS노믹스' 경제 효과 1.5조",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241620",
+        "description": "여행사들은 'BTS 서울 시티 성지 투어'(하나투어), 'BTS 풋스텝 투어'(클룩) 등 특화 상품을 출시해 완판 행진을 이어가고 있다. 2021년 BTS '시즌 그리팅' 촬영지로 유명한 더 플라자 호텔은 당시 컨셉을 재현한 '레트로 서울... ",
+        "pubDate": "Tue, 24 Feb 2026 08:40:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=241620",
+        "content": null,
+        "related_companies": [
+          "하나투어"
+        ],
+        "ai_classification_reason": "BTS와 관련한 여행 상품이 호텔에 영향을 미침",
+        "summary": "BTS의 컴백으로 관광 상품들이 인기를 끌고 있으며, 더 플라자 호텔이 촬영지로 재조명받고 있습니다."
+      },
+      {
+        "title": "케이뱅크, 청약 증거금 약 10조 몰리며 흥행 外",
+        "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30164",
+        "description": "20일과 23일 이틀에 걸쳐 일반투자자 배정 물량 1764만주에 대해 총 23억 7412만주가 신청됐으며, 청약 건수는... 청년마을기업은 여행사업에 활용할 호텔 건립을 위해 새마을금고에서 대출을 받고, 마을기업 조합원들은... ",
+        "pubDate": "Mon, 23 Feb 2026 18:40:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.rcast.co.kr/news/articleView.html?idxno=30164",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "호텔 건립 프로젝트로 여행 사업과 연결됨",
+        "summary": "청년마을기업이 여행 사업을 위한 호텔 건립을 위해 대출을 신청하였습니다."
+      }
+    ],
+    "news_volume": 17155.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:18",
+    "sector_briefing": "BTS의 컴백으로 관광 상품과 더 플라자 호텔이 주목받는 상황입니다.",
+    "rising_keywords": [
+      "이랜드파크",
+      "힐튼",
+      "메리어트",
+      "에어비앤비",
+      "하나투어"
+    ]
+  }
+}

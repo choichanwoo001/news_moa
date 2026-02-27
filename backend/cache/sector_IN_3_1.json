@@ -1,0 +1,142 @@
+{
+  "saved_at": 1772032776.4584863,
+  "data": {
+    "sector_id": "IN_3",
+    "sector_name": "건설",
+    "category_id": "IN",
+    "category_name": "산업재",
+    "articles": [
+      {
+        "title": "방위산업·전쟁·테러 관련주, '봄날의 햇살' 그린광학카티스·우리기술...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250305",
+        "description": "그린광학과 기아의 주가 상승률은 각각 17.06%, 12.70%다. 대한항공과 아이티센엔텍은 전 거래일 대비 각각... 100여 개국 수출 경험 보유, 중동·동남아 파트너 확장 중이며 국내 대형 건설사·공공 B2B 장기 납품... ",
+        "pubDate": "Thu, 26 Feb 2026 00:16:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250305",
+        "content": null,
+        "related_companies": [
+          "대한항공"
+        ],
+        "ai_classification_reason": "기사가 건설사와 B2B 장기 납품에 대해 언급하고 있어 건설 섹터와 관련됨",
+        "summary": "그린광학과 기아의 주가가 상승하며, 국내 대형 건설사와 공공 B2B 장기 납품에 대해서도 언급되고 있다."
+      },
+      {
+        "title": "전기차 관련주, '덩실덩실' 엠에스오토텍·계양전기·모베이스전·KEC·경...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "description": "엠에스오토텍과 계양전기와 모베이스전자의 주가 상승률은 각각각 30.00%, 29.89%, 29.87%다. 명신산업과 KEC와... 유통·건설·산업체와 완성차 부품사 등 폭넓은 B2B 고객사를 보유하고 있다. 회사는 또한 수출 및 국내... ",
+        "pubDate": "Thu, 26 Feb 2026 00:10:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250304",
+        "content": null,
+        "related_companies": [
+          "계양전기"
+        ],
+        "ai_classification_reason": "유통·건설 부문에서 폭넓은 고객사를 보유하고 있어 건설 분야와 관련됨",
+        "summary": "계양전기가 유통, 건설, 산업체와 함께 폭넓은 B2B 고객사를 보유하고 있다."
+      },
+      {
+        "title": "로봇·산업용·협동로봇 관련주, '함박웃음' 계양전기·아이엘·씨피시...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "description": "계양전기와 아이엘과 에스엘의 주가 상승률은 각각각 29.89%, 22.95%, 17.97%다. 앤로보틱스와 에스피지와... 유통·건설·산업체와 완성차 부품사 등 폭넓은 B2B 고객사를 보유하고 있다. 회사는 또한 수출 및 국내 유통채널... ",
+        "pubDate": "Thu, 26 Feb 2026 00:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250302",
+        "content": null,
+        "related_companies": [
+          "계양전기"
+        ],
+        "ai_classification_reason": "유통·건설 부문에서 고객을 많이 보유하여 건설 섹터와 연관됨",
+        "summary": "계양전기는 유통·건설·산업체 고객사와 함께 수출 및 국내 유통채널을 운영하고 있다."
+      },
+      {
+        "title": "연준 FOMC 금리인하 전면 재조정... 뉴욕증시 비트코인 \"엔비디아 TSMC 폭...",
+        "link": "https://www.g-enews.com/view.php?ud=202602251607198695906806b77b_1",
+        "description": "뉴욕증시의 3대 주가지수가 모두 반등했다.최근 기술 산업의 '공공의 적'이 된 앤트로픽이 일부 기술... 업종별로는 건설(6.78%), 금속(5.24%), 증권(4.10%) 등은 상승했고, 의료·정밀기기(-1.35%), 제약(-0.81%) 등은... ",
+        "pubDate": "Thu, 26 Feb 2026 00:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.g-enews.com/view.php?ud=202602251607198695906806b77b_1",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "건설업종의 주가 상승에 대한 내용이 포함되어 있어 적합함",
+        "summary": "신규 금리에 따른 뉴욕증시의 주요 업종으로 건설이 상승세를 보이고 있다."
+      },
+      {
+        "title": "[사설]4천피→5천피 석 달, 5천피→6천피 한 달… 레버리지 경고등 켤 때",
+        "link": "https://n.news.naver.com/mnews/article/020/0003699755?sid=110",
+        "description": "이제부터는 주가 상승보다 자본시장의 온기가 실물경제로 퍼지도록 만드는 게 더 중요하다. ‘20만 전자’, ‘100만 닉스’에 지나치게 의존하는 구조를 넘어서 로봇·방산·원전 같은 신성장 산업, 건설·서비스업 등... ",
+        "pubDate": "Wed, 25 Feb 2026 23:31:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.donga.com/news/Opinion/article/all/20260225/133424824/2",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "건설 및 서비스업에 대한 긍정적인 전망이 언급되어 관련성이 있음",
+        "summary": "자본시장의 온기가 실물경제로 퍼지는 데에 건설과 서비스업이 중요한 역할을 하고 있다."
+      },
+      {
+        "title": "뉴욕증시 개장 전 특징주...서클·IBM·카바그룹↑ VS 고대디·로우스·루...",
+        "link": "https://www.newspim.com/news/view/20260225001285",
+        "description": "◆ 파 퍼시픽 홀딩스(PARR) 에너지 기업 파 퍼시픽은 4분기 조정 EPS 1.17달러로 시장 예상치(1.27달러)를 밑돌면서 주가가 10% 넘게 급락했다. 매출은 예상치를 웃돌았다. ◆ 에버러스 컨스트럭션 그룹(ECG) 건설... ",
+        "pubDate": "Wed, 25 Feb 2026 23:12:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.newspim.com/news/view/20260225001285",
+        "content": null,
+        "related_companies": [
+          "에버러스 컨스트럭션 그룹"
+        ],
+        "ai_classification_reason": "건설 관련 기업이 언급되어 있어 직접적으로 관련됨",
+        "summary": "에버러스 컨스트럭션 그룹이 뉴욕증시에서 특징주로 언급되고 있다."
+      },
+      {
+        "title": "삼성물산 뉴스케일 지분 줄인 이유는?…건설사 원전 전략 '투자→실행'...",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=337340",
+        "description": "신규 원전 발주가 예상되는 중동과 동유럽 시장에서 참여 폭을 넓힐 수 있을지 주목된다. 건설사들이 원전 사업에 주목하는 배경에는 주택 의존도를 낮추려는 구조적 필요가 있다. 원전은 공사 기간이 길고 국가 단위로... ",
+        "pubDate": "Wed, 25 Feb 2026 22:23:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.greened.kr/news/articleView.html?idxno=337340",
+        "content": null,
+        "related_companies": [
+          "삼성물산"
+        ],
+        "ai_classification_reason": "건설사로서 원전 전략에 대한 논의가 있으므로 적합함",
+        "summary": "삼성물산이 원전 사업에 주목하며 신규 발주 시장에 참여할 가능성이 논의되고 있다."
+      },
+      {
+        "title": "70년 증시, 종가 6000에 서다…지수는 새 역사, 체감은 다른 속도",
+        "link": "https://platum.kr/archives/282552",
+        "description": "9%로 전망하면서, 반도체를 제외한 설비투자 부진과 건설투자의 큰 폭 감소를 명시했다. 이 괴리는 숫자의 구조에서 비롯된다. 코스피 시가총액의 약 40%는 삼성전자와 SK하이닉스 두 종목의 주가 흐름에 연동된다.... ",
+        "pubDate": "Wed, 25 Feb 2026 21:48:00 +0900",
+        "source": "Naver",
+        "original_link": "https://platum.kr/archives/282552",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "건설 투자의 감소에 대한 분석이 포함되어 있어 관련성이 있음",
+        "summary": "설비투자 부진과 함께 건설투자의 큰 폭 감소에 대한 언급이 있었다."
+      },
+      {
+        "title": "IPO 시장, 기대에 미치지 못하다... 스페이스X 상장 촉각",
+        "link": "https://www.tokenpost.kr/news/market/333870",
+        "description": "기업으로는 건설 장비 대여 서비스 업체인 이큅먼트셰어가 있으며, 이 회사는 7억 달러 이상 모으며 시장 가치를 70억 달러로 평가받았다. 이 밖에도 우주 기술 기업인 요크 스페이스 시스템스는 초기에 비해 주가는... ",
+        "pubDate": "Wed, 25 Feb 2026 21:36:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.tokenpost.kr/news/market/333870",
+        "content": null,
+        "related_companies": [
+          "이큅먼트셰어"
+        ],
+        "ai_classification_reason": "건설 장비 대여 서비스를 제공하는 회사로 직접 관련됨",
+        "summary": "이큅먼트셰어가 7억 달러 이상을 모으며 건설 장비 대여 서비스로 시장에 진입했다."
+      }
+    ],
+    "news_volume": 480611.0,
+    "change_rate": -5.0,
+    "cached_at": "2026-02-26 00:19:34",
+    "sector_briefing": "연준의 금리 조정과 함께 건설 섹터의 상승세가 두드러지며, 실물경제의 회복에 주목받고 있다.",
+    "rising_keywords": [
+      "계양전기",
+      "대한항공",
+      "에버러스 컨스트럭션 그룹",
+      "삼성물산",
+      "이큅먼트셰어"
+    ]
+  }
+}

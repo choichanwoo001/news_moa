@@ -1,0 +1,95 @@
+{
+  "saved_at": 1772032761.8369126,
+  "data": {
+    "sector_id": "CS_1",
+    "sector_name": "음식료",
+    "category_id": "CS",
+    "category_name": "필수소비재",
+    "articles": [
+      {
+        "title": "[오늘 뭐 먹지] 매일유업·던킨·롯데웰푸드 외",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=725319",
+        "description": "2월25일 식음료업계 신제품 출시·프로모션 소식. 매일유업(267980)은 자사 음료 브랜드 '피크닉'이 봄을 맞아... 삼립에 따르면 시카고·디트로이트 등 중동부 지역 매장에서는 주간 식품군 최상위 매출을 기록했다. 현지... ",
+        "pubDate": "Wed, 25 Feb 2026 11:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.newsprime.co.kr/news/article.html?no=725319",
+        "content": null,
+        "related_companies": [
+          "매일유업",
+          "던킨",
+          "롯데웰푸드"
+        ],
+        "ai_classification_reason": "식음료업계의 신제품 출시 및 프로모션 관련 뉴스이기 때문",
+        "summary": "매일유업은 자사 음료 브랜드 '피크닉'의 봄 신제품 출시 소식을 전했다."
+      },
+      {
+        "title": "백종원 더본코리아 주가 상승 속 일부 메뉴 가격 올렸다…\"감내할 수 없...",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15983475",
+        "description": "요리연구가 겸 방송인 백종원이 대표로 있는 더본코리아의 주가가 상승한 가운데 빽다방, 홍콩반점 등... 이와 함께 더본코리아의 커피 브랜드인 빽다방도 이달 13일부터 카페모카 등 음료를 5% 안팎, 두바이 초콜릿... ",
+        "pubDate": "Tue, 24 Feb 2026 19:24:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.topstarnews.net/news/articleView.html?idxno=15983475",
+        "content": null,
+        "related_companies": [
+          "더본코리아",
+          "빽다방"
+        ],
+        "ai_classification_reason": "음료 제품의 가격 인상과 관련된 내용이다",
+        "summary": "더본코리아는 일부 메뉴 가격을 5% 인상한 사실을 알렸다."
+      },
+      {
+        "title": "美 관세 위법 시장 첫 반응...'수출·소비株·안전자산 ETF' 매수",
+        "link": "https://www.newspim.com/news/view/20260223000982",
+        "description": "제한적\"이라며 \"주가 수익률은 상대적으로 부진했으나 관세 영향이 제한적인 화장품, 음식료, 헬스케어 업종에 대한 관심을 높일 필요가 있다\"고 밝혔다. 실제 이날 가전 업종은 7.29% 상승했고 음료(2.43%)·식품(2.43... ",
+        "pubDate": "Tue, 24 Feb 2026 08:45:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.newspim.com/news/view/20260223000982",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "음식료 업종의 주가 상승에 대한 언급으로 관련성이 있다",
+        "summary": "관세 위법에 따라 음식료 업종에 대한 관심이 증가하고 있다고 밝혔다."
+      },
+      {
+        "title": "[식품업계기상도]삼양사·CJ제일제당 등 제분7사, 설탕 이어 밀가루 담...",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=803569",
+        "description": "규제 리스크와 가격 전략이 교차한 2월 셋째 주 식품업계의 날씨는 뚜렷하게 갈렸다. ◆삼양사(145990)... ◆한국맥도날드 ‘흐림’ = 신메뉴로도 방어 실패한 ‘가격인상’ 여파 한국맥도날드는 이번 주 가격 인상 이슈가... ",
+        "pubDate": "Fri, 20 Feb 2026 17:26:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.nspna.com/news/?mode=view&newsid=803569",
+        "content": null,
+        "related_companies": [
+          "CJ제일제당"
+        ],
+        "ai_classification_reason": "식품업계의 가격인상과 신메뉴 관련 뉴스이므로 적합",
+        "summary": "식품업계에서는 최근 설탕과 밀가루 가격에 관한 담합 이슈가 다루어졌다."
+      },
+      {
+        "title": "[급등락주 짚어보기] 증권 이어 보험주 강세⋯롯데손해보험ㆍ미래에셋...",
+        "link": "https://www.etoday.co.kr/news/view/2557952",
+        "description": "광동제약은 일반의약품과 음료 사업을 영위하는 제약사로, 제약·헬스케어 이슈에 따라 단기 변동성이... 식품주 가운데서도 저가 종목군 중심으로 단기 매수세가 유입되며 주가가 급등한 흐름으로 풀이된다. 이날... ",
+        "pubDate": "Fri, 20 Feb 2026 16:16:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.etoday.co.kr/news/view/2557952",
+        "content": null,
+        "related_companies": [
+          "광동제약"
+        ],
+        "ai_classification_reason": "음료 사업에 대한 내용으로 음식료 분야와 관련이 있다",
+        "summary": "광동제약은 일반의약품 및 음료 사업을 영위하고 있는 제약사로 소개되었다."
+      }
+    ],
+    "news_volume": 8392.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:19",
+    "sector_briefing": "매일유업의 신제품 출시와 더본코리아의 가격 인상 등으로 음식료 섹터가 소비자 반응에 주목받고 있다.",
+    "rising_keywords": [
+      "매일유업",
+      "던킨",
+      "롯데웰푸드",
+      "더본코리아",
+      "빽다방",
+      "CJ제일제당",
+      "광동제약"
+    ]
+  }
+}

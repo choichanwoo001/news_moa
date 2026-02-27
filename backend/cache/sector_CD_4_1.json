@@ -1,0 +1,34 @@
+{
+  "saved_at": 1772032759.7561355,
+  "data": {
+    "sector_id": "CD_4",
+    "sector_name": "전자제품",
+    "category_id": "CD",
+    "category_name": "임의소비재",
+    "articles": [
+      {
+        "title": "2차전지 소재·부품 관련주, '봄날의 햇살' 이랜텍·켐트로스·한농화성...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250215",
+        "description": "이랜텍과 켐트로스의 주가 상승률은 각각 16.29%, 12.91%다. 한농화성과 더블유씨피와 엘앤에프는 전 거래일... 자회사들은 전자제품 및 자동차용 패스너를 생산하며 삼성·LG, 소니·시마노 등 글로벌 고객사에 공급하는... ",
+        "pubDate": "Wed, 25 Feb 2026 00:16:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250215",
+        "content": null,
+        "related_companies": [
+          "삼성전자",
+          "LG전자"
+        ],
+        "ai_classification_reason": "생활가전 및 전자제품 관련 뉴스",
+        "summary": "LG전자가 초프리미엄 가전을 미국 시장에 출시할 예정이며, 삼성전자와의 경쟁도 강화되고 있다."
+      }
+    ],
+    "news_volume": 4984.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:17",
+    "sector_briefing": "LG전자의 초프리미엄 가전 출시와 삼성전자와의 경쟁 강화로 전자제품 섹터에 주목받는 상황.",
+    "rising_keywords": [
+      "삼성전자",
+      "LG전자"
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "saved_at": 1772025825.1562138,
+  "data": {
+    "sector_id": "IT_1",
+    "sector_name": "반도체",
+    "category_id": "IT",
+    "category_name": "IT",
+    "articles": [
+      {
+        "title": "[공시속보] 서울반도체, 투자경고종목 지정예고→주가 변동성 확대 우려",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15984598",
+        "description": "이번 조치로 서울반도체(046890)에 대한 투자자들의 경계심이 높아질 것으로 보이며, 향후 추가 지정여부 및 주가 흐름에 시장의 관심이 집중될 전망이다. [톱스타뉴스=]",
+        "pubDate": "Wed, 25 Feb 2026 20:28:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.topstarnews.net/news/articleView.html?idxno=15984598",
+        "content": null,
+        "related_companies": [
+          "서울반도체"
+        ],
+        "ai_classification_reason": "서울반도체에 대한 투자경고와 주가 변동성 관련 뉴스",
+        "summary": "서울반도체가 투자경고종목으로 지정될 예정이며, 이에 대한 투자자들의 경계심이 높아질 것으로 보입니다."
+      },
+      {
+        "title": "유비벨록스, 지난해 당기순손실 82억3029만1366원…적자전환",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634599",
+        "description": "다만 반도체 등 원가율 상승과 판촉비 등 판매관리비 증가, 영업자산 손상차손, 환율 상승 영향이... 종목 시세 정보에 따르면 유비벨록스의 주가는 2월 25일 16시 10분 기준 5640원이며, 전일 대비 50원(-0.88... ",
+        "pubDate": "Wed, 25 Feb 2026 20:26:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634599",
+        "content": null,
+        "related_companies": [
+          "유비벨록스"
+        ],
+        "ai_classification_reason": "반도체 원가율 상승에 따른 적자 관련 뉴스",
+        "summary": "유비벨록스는 지난해 당기순손실이 82억3029만 원에 달하며 적자전환하였습니다."
+      },
+      {
+        "title": "삼전·닉스, 올 코스피 상승분 66% 견인…쏠림 더 커졌다",
+        "link": "https://n.news.naver.com/mnews/article/028/0002793225?sid=101",
+        "description": "상장사의 주가 상승이 압도적인 기여를 했다. 대선 이후 2월24일까지 시가총액 증가분을 보면, 삼성전자가... 2월2일 코스피가 5.26% 급락하고, 5일 3.86% 떨어지는 등 크게 흔들린 날도 있었지만, 인공지능(AI) 반도체... ",
+        "pubDate": "Wed, 25 Feb 2026 20:22:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.hani.co.kr/arti/economy/economy_general/1246594.html",
+        "content": null,
+        "related_companies": [
+          "삼성전자"
+        ],
+        "ai_classification_reason": "반도체 관련 주가 및 코스피 상승에 대한 내용",
+        "summary": "삼성전자가 올해 코스피 상승의 66%를 견인하며 투자자들의 큰 관심을 받고 있습니다."
+      },
+      {
+        "title": "실적·유동성 ‘쌍끌이’…지금까지 본 적 없는 ‘호황’ 낳았다",
+        "link": "https://n.news.naver.com/mnews/article/032/0003429790?sid=101",
+        "description": "박희찬 미래에셋증권 리서치센터장은 25일 “(지수 상승 요인의) 8할 이상이 실적일 정도로 반도체 양사 실적이 워낙 좋기에 시장이 움직이고 있다”며 “4000일 때나 지금이나 주가수익비율(PER) 변화가 거의 없어... ",
+        "pubDate": "Wed, 25 Feb 2026 20:21:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.khan.co.kr/article/202602252021005",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "반도체 업종의 실적 향상이 시장에 미친 영향",
+        "summary": "반도체 기업들의 실적이 양호하여 코스피 지수가 상승하고 있는 중요한 원인으로 작용하고 있습니다."
+      },
+      {
+        "title": "6083…초스피드 ‘육천피’",
+        "link": "https://n.news.naver.com/mnews/article/032/0003429786?sid=101",
+        "description": "지난해 75.63%의 수익률로 주요 20개국(G20) 주요 주가지수 중 압도적 1위를 기록한 코스피는 올해도 반도체의 실적 전망 상향과 유동성 유입에 힘입어 44.37% 올라 수익률 1위를 이어가고 있다.",
+        "pubDate": "Wed, 25 Feb 2026 20:16:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.khan.co.kr/article/202602252016005",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "반도체 실적 상승과 유동성 관련 뉴스",
+        "summary": "올해 코스피는 반도체 실적 전망 상향과 유동성 유입 덕분에 상승세를 보이고 있습니다."
+      },
+      {
+        "title": "\"코스피 7,000대 간다\" 증권가 전망에도 불안한 이유",
+        "link": "https://n.news.naver.com/mnews/article/055/0001335745?sid=101",
+        "description": "주주 친화적 정책에 기반한 증시 체질 개선도 긍정적이지만, 결국에 반도체 기업들의 실적 전망... AI 버블론이나 유동성 충격으로 두 회사 주가가 영향을 받게 되면, 그 진폭은 예전보다 클 수밖에 없습니다. 당장... ",
+        "pubDate": "Wed, 25 Feb 2026 20:10:00 +0900",
+        "source": "Naver",
+        "original_link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008455571&plink=ORI&cooper=NAVER",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "반도체 기업 실적 전망에 대한 시장 우려",
+        "summary": "주식 시장의 체질 개선에도 불구하고 반도체 기업들의 실적 전망이 불확실하다는 우려가 커지고 있습니다."
+      },
+      {
+        "title": "코스피 또 새 시대…사상 첫 6,000 진입",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1515226",
+        "description": "[서상영 / 미래에셋증권 연구원: 장 초반에는 반도체 업종이 강세를 견인을 했고 그 뒤에 이어서 자동차와 증권주가 시장의 상승을 이끌었다….] 코스피 5000 시대를 강조했던 이재명 대통령은 별다른 말이... ",
+        "pubDate": "Wed, 25 Feb 2026 20:04:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1515226",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "반도체 업종의 시장 상승 기여 관련",
+        "summary": "반도체 업종이 최근 코스피 상승을 견인하며 시장에 긍정적인 영향을 미쳤습니다."
+      },
+      {
+        "title": "원익IPS, 2025년 영업이익 738억1400만원…전년 대비 593.64% 증가",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634571",
+        "description": "반도체 제조 장비 기업 원익IPS(240810)는 2025년 연결 기준 잠정 실적을 발표했다고 25일 공시했다.... 종목 시세 정보에 따르면 원익IPS의 주가는 2월 25일 16시 10분 기준 11만4800원이며, 전일 대비 1700원(-1.... ",
+        "pubDate": "Wed, 25 Feb 2026 20:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=634571",
+        "content": null,
+        "related_companies": [
+          "원익IPS"
+        ],
+        "ai_classification_reason": "원익IPS의 영업이익 예상 발표 관련",
+        "summary": "원익IPS는 2025년 영업이익이 전년 대비 593.64% 증가할 것으로 예상된다고 발표했습니다."
+      },
+      {
+        "title": "[주식마감] 현대차 강세에 계양전기 상한가... 참엔지니어링, 서울반도...",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1143641",
+        "description": "25일 계양전기, 참엔지니어링, 계양전기우, 서울반도체, 유투바이오, 모베이스전자, 서울바이오시스... 이날 별도의 공시는 없었으나, 현대차 주가 강세에 따른 수혜 기대감이 반영된 것으로 풀이된다.... ",
+        "pubDate": "Wed, 25 Feb 2026 19:56:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ggilbo.com/news/articleView.html?idxno=1143641",
+        "content": null,
+        "related_companies": [
+          "서울반도체"
+        ],
+        "ai_classification_reason": "서울반도체와 관련된 상장 및 주가 내용",
+        "summary": "서울반도체가 우선주와 함께 상장되어 주목받고 있으며, 시장의 관심을 받고 있습니다."
+      }
+    ],
+    "news_volume": 576159.0,
+    "change_rate": -1.0,
+    "cached_at": "2026-02-25 22:23:45"
+  }
+}

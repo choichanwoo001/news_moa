@@ -1,0 +1,141 @@
+{
+  "saved_at": 1772032783.6936398,
+  "data": {
+    "sector_id": "MT_3",
+    "sector_name": "광물",
+    "category_id": "MT",
+    "category_name": "소재",
+    "articles": [
+      {
+        "title": "中증시, 기술주 강세에 상승 마감...항셍지수도 0.7%↑",
+        "link": "https://www.ajunews.com/view/20260225171452882",
+        "description": "com 상하이증권거래소 신관 [사진=AFP·연합뉴스] 중국 증시 주요 주가지수가 25일 상승세로 마감했다.... 광물 관련주도 강세를 보였다. 중국 국영 희토류 그룹인 중국희토그룹은 8.49% 올랐고, 텅스텐 업체... ",
+        "pubDate": "Wed, 25 Feb 2026 17:26:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ajunews.com/view/20260225171452882",
+        "content": null,
+        "related_companies": [
+          "중국희토그룹"
+        ],
+        "ai_classification_reason": "중국의 광물 관련 주가 상승 소식을 다루고 있어 적합.",
+        "summary": "중국 증시에서 주요 주가지수가 상승하며, 광물 관련주도 함께 강세를 보였다."
+      },
+      {
+        "title": "中, 日 방위산업 정밀 타격...\"공급망 무기화\"에 열도 충격",
+        "link": "https://www.ajunews.com/view/20260225110440462",
+        "description": "실제로 규제 대상이 된 기업의 주가는 24일 도쿄 주식시장에서 폭락했다.  NEC는 전 거래일 대비 8% 넘게... 시장에서는 이번 제재가 단순한 정치적 선언을 넘어, 일본 첨단 산업의 생명줄인 희토류와 중요 광물의 공급망을... ",
+        "pubDate": "Wed, 25 Feb 2026 15:12:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ajunews.com/view/20260225110440462",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "일본의 방위산업과 희토류 공급망 문제를 다루고 있어 관련 있음.",
+        "summary": "일본의 방위산업에 대한 제재가 희토류와 중요 광물 공급망에 영향을 미치고 있다."
+      },
+      {
+        "title": "동국알앤에스, 내화물·스틸 제조 넘어 IT 서비스로 사업 확대 가속",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432166",
+        "description": "글로벌 자원 무기화 우려와 핵심 광물 확보 경쟁이 치열해지면서 희귀금속 및 희토류 테마가 상승 중이다. 25일 희귀금속 섹터는 전일 대비 1.91% 오르며 자원 안보의 중요성이 주가에  반영되고 있다. 반도체, 이차전지... ",
+        "pubDate": "Wed, 25 Feb 2026 13:52:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432166",
+        "content": null,
+        "related_companies": [
+          "동국알앤에스"
+        ],
+        "ai_classification_reason": "희귀금속 및 광물 확보 경쟁에 관한 내용으로 적합.",
+        "summary": "동국알앤에스가 희귀금속과 희토류 테마의 상승 속에서 사업 확장을 가속화하고 있다."
+      },
+      {
+        "title": "2차전지 소재·부품 관련주, '봄날의 햇살' 이랜텍·켐트로스·한농화성...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250215",
+        "description": "이랜텍과 켐트로스의 주가 상승률은 각각 16.29%, 12.91%다. 한농화성과 더블유씨피와 엘앤에프는 전 거래일... 현재 미국 정부는 중국이 장악한 희토류 공급망을 재편하기 위해 핵심 전략광물 생산 및 정련에 대규모... ",
+        "pubDate": "Wed, 25 Feb 2026 00:16:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250215",
+        "content": null,
+        "related_companies": [
+          "엘앤에프"
+        ],
+        "ai_classification_reason": "전략 광물 생산에 관한 뉴스로 광물 섹터에 관련 있음.",
+        "summary": "미국 정부가 중국의 희토류 공급망 재편을 위해 대규모 생산 및 정련 계획을 세우고 있다."
+      },
+      {
+        "title": "[특징주] 나인테크, 中 '군사 이중용도' 수출통제 확대에 상승…희토류...",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=694560",
+        "description": "컨슈머타임스=전은정 기자 | 나인테크 주가가 상승중이다. 나인테크는 24일 오후 1시5분 기준 전일보다 3.63... 특히 중국이 희토류를 포함한 전략 광물 통제를 지속적으로 확대해온 만큼, 비(非)중국 공급망 확보 움직임이... ",
+        "pubDate": "Tue, 24 Feb 2026 13:08:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.cstimes.com/news/articleView.html?idxno=694560",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "중국의 전략 광물 통제 및 공급망 확보 움직임과 관련된 내용.",
+        "summary": "나인테크가 중국의 전략 광물 통제로 인해 주가가 상승하고 있다."
+      },
+      {
+        "title": "코로나19·진단·치료제·백신개발 관련주, '웃음꽃' 현대바이오·엔지켐...",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=250132",
+        "description": "현대바이오와 나노엔텍의 주가 상승률은 각각 29.99%, 29.96%다. 유투바이오와 엔지켐생명과학과 파미셀은... 규모의 희토류 영구소결자석 신공장을 설립한다고 밝힌 바 있다. 또한 호주에 본부를 둔 희토류 업체 Lynas... ",
+        "pubDate": "Mon, 23 Feb 2026 18:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.finomy.com/news/articleView.html?idxno=250132",
+        "content": null,
+        "related_companies": [
+          "Lynas"
+        ],
+        "ai_classification_reason": "희토류 업체와 관련된 내용을 다루고 있어 적합.",
+        "summary": "호주에 본부를 둔 희토류 업체 Lynas가 새로운 공장 설립을 밝히고 있다."
+      },
+      {
+        "title": "중국산 저가는 가라... 삼화전자, 고효율 페라이트로 전기차 시장 평정",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=431380",
+        "description": "및 희토류 산화물 사업을 하는 동국알앤에스는 소폭 하락하고 있다. 유도 방출 프린팅 솔루션 전문인 엔젯과 합성피혁 제조사로 광물 자원 개발 이력을 가진 대원화성 역시 차익 실현 매물에 오름세를 보이고 있다.... ",
+        "pubDate": "Mon, 23 Feb 2026 14:06:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=431380",
+        "content": null,
+        "related_companies": [
+          "동국알앤에스",
+          "대원화성"
+        ],
+        "ai_classification_reason": "광물 자원 개발과 희토류 사업과 관련된 내용.",
+        "summary": "동국알앤에스와 대원화성이 광물 자원 개발 관련 소식에 영향을 받고 있다."
+      },
+      {
+        "title": "[투자자 순매수 TOP5] 코스피 5800선 돌파, 외국인 반도체주 엇갈린 행보",
+        "link": "https://n.news.naver.com/mnews/article/374/0000493649?sid=101",
+        "description": "조선주 주가가 상승세를 타는 분위기였는데요. 이에 외국인과 기관 모두 한화오션을 적극 매수했습니다. 최근 피지컬 AI를 구동하기 위한 배터리, 그리고 배터리에 쓰이는 전략 광물인 희토류를 생산하는 화학기업들에... ",
+        "pubDate": "Mon, 23 Feb 2026 08:33:00 +0900",
+        "source": "Naver",
+        "original_link": "https://biz.sbs.co.kr/article_hub/20000292774?division=NAVER",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "전략 광물과 그에 따른 화학기업의 전망을 다루고 있어 관련 있음.",
+        "summary": "피지컬 AI 배터리와 관련된 전략 광물 생산 기업들이 성장할 것으로 기대되고 있다."
+      },
+      {
+        "title": "피지컬 AI, 자본시장 ‘판’ 흔든다…증권사, 관련 주가 줄상향 [투자36...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002603028?sid=101",
+        "description": "삼성전기의 목표주가는 최대 45만원까지 치솟았다. 피지컬 AI를 구동하기 위한 배터리, 배터리에 쓰이는 전략 광물인 희토류 등을 생산하는 화학기업들도성장이 기대된다. 특히 ‘꿈의 배터리’로 불리는 전고체... ",
+        "pubDate": "Sat, 21 Feb 2026 15:50:00 +0900",
+        "source": "Naver",
+        "original_link": "https://biz.heraldcorp.com/article/10679328?ref=naver",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "희토류와 같은 희소 광물에 대한 품목관세 논의와 관련 있음.",
+        "summary": "트럼프가 희소 광물에 대한 관세를 부여할 수 있는 권한을 가질 수 있다고 밝혔다."
+      }
+    ],
+    "news_volume": 2284.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:41",
+    "sector_briefing": "중국의 희토류 공급망 통제와 일본 방위산업 제재로 광물 섹터가 주목받고 있는 상황.",
+    "rising_keywords": [
+      "동국알앤에스",
+      "중국희토그룹",
+      "엘앤에프",
+      "Lynas",
+      "대원화성"
+    ]
+  }
+}

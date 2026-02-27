@@ -1,0 +1,91 @@
+{
+  "saved_at": 1772032745.9357703,
+  "data": {
+    "sector_id": "FN_1",
+    "sector_name": "은행",
+    "category_id": "FN",
+    "category_name": "금융",
+    "articles": [
+      {
+        "title": "[사설] 코스피 6000시대 활짝… 사상최대 '빚투' 경계를",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260225010007631",
+        "description": "주식투자용 기타대출이 급증하면서 은행 가계대출도 1979조원으로 사상 최고치를 갈아치웠다. 이런데도 여당은 이날 국회 본회의에서 1년 내 자사주 소각을 의무화한 3차 상법개정안을 강행 처리하는 등 주가... ",
+        "pubDate": "Thu, 26 Feb 2026 00:02:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.asiatoday.co.kr/view.php?key=20260225010007631",
+        "content": null,
+        "related_companies": [
+          "신한은행",
+          "하나금융지주",
+          "우리은행",
+          "KB금융그룹",
+          "NH농협은행"
+        ],
+        "ai_classification_reason": "가계대출 증가가 은행과 관련된 주제이므로 적합",
+        "summary": "주식투자용 대출이 급증하면서 은행 가계대출이 사상 최고치를 기록했다."
+      },
+      {
+        "title": "연준 FOMC 금리인하 전면 재조정... 뉴욕증시 비트코인 \"엔비디아 TSMC 폭...",
+        "link": "https://www.g-enews.com/view.php?ud=202602251607198695906806b77b_1",
+        "description": "기대감이 주가를 띄웠다. 역사적 6천피 시대의 시작 (서울=연합뉴스) 서명곤 기자 = 코스피가 사상 처음으로 6,000을 돌파해 거래를 마친 25일 서울 중구 하나은행 딜링룸에서 딜러들이 기념 세리머니를 하고... ",
+        "pubDate": "Thu, 26 Feb 2026 00:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.g-enews.com/view.php?ud=202602251607198695906806b77b_1",
+        "content": null,
+        "related_companies": [
+          "하나은행"
+        ],
+        "ai_classification_reason": "연준 금리인하 논의로 은행 운영에 영향을 미치는 주제",
+        "summary": "연준 FOMC에서 금리인하 전망이 나오고, 하나은행에서는 6천피 시대 관련 기념 세리머니가 열렸다."
+      },
+      {
+        "title": "[기자의 눈] 6000피 시대 '부동산 신화' 깨고 '자본시장 민주화'로",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=102161",
+        "description": "실제로 최근 한 달 사이 5대 은행의 요구불예금이 35조원가량 급증한 것은, 부동산 투기를 포기한 자금들이... 지배구조가 주가 상승의 보증수표'임을 증명했다. 공공뉴스 산업부 이화종 기자 불과 1년 전만 해도 글로벌... ",
+        "pubDate": "Wed, 25 Feb 2026 22:46:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.00news.co.kr/news/articleView.html?idxno=102161",
+        "content": null,
+        "related_companies": [
+          "하나은행",
+          "신한은행",
+          "우리은행",
+          "KB금융그룹",
+          "NH농협은행"
+        ],
+        "ai_classification_reason": "은행 요구불예금 증가가 주제의 핵심이므로 적합",
+        "summary": "최근 5대 은행의 요구불예금이 급증하면서 자금 이동이 활발해졌다."
+      },
+      {
+        "title": "증선위, 홍콩 ELS 과징금 결론 못내…26일 안건소위서 재논의",
+        "link": "https://n.news.naver.com/mnews/article/277/0005726092?sid=101",
+        "description": "금융위원회 산하 증권선물위원회가 25일 은행권의 홍콩 H지수 주가연계증권(ELS) 불완전판매 과징금과 관련해 결론을 내리지 못했다. 해당 안건은 26일 열리는 금융위 안건심사소위원회 논의를 거쳐 금융위... ",
+        "pubDate": "Wed, 25 Feb 2026 22:43:00 +0900",
+        "source": "Naver",
+        "original_link": "https://view.asiae.co.kr/article/2026022522431624433",
+        "content": null,
+        "related_companies": [
+          "신한은행",
+          "하나금융지주",
+          "우리은행",
+          "KB금융그룹",
+          "NH농협은행"
+        ],
+        "ai_classification_reason": "은행권의 구체적인 과징금 관련 논의가 이루어짐",
+        "summary": "증선위는 은행권의 홍콩 ELS 불완전판매 관련 과징금 결정을 내리지 못하고 재논의한다."
+      }
+    ],
+    "news_volume": 931156.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:03",
+    "sector_briefing": "은행 가계대출이 사상 최고치를 기록하며 금융 시장에서 급증하는 주식 투자와 자금 이동에 주목받고 있다.",
+    "rising_keywords": [
+      "신한은행",
+      "우리은행",
+      "KB금융그룹",
+      "NH농협은행",
+      "하나금융지주",
+      "하나은행"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "saved_at": 1772032781.9239798,
+  "data": {
+    "sector_id": "EN_1",
+    "sector_name": "석유",
+    "category_id": "EN",
+    "category_name": "에너지",
+    "articles": [
+      {
+        "title": "美대법원, 엑손모빌ㆍ선코어 '기후소송' 다룬다...유사소송 분수령",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=18015",
+        "description": "미국 연방대법원이 정유업계와 콜로라도 주 볼더시 간의 공방에서 정유업체들의 상고 신청을 받아들인... 등 석유기업들의 기각 요청을 받아들이지 않은 바 있다. 또한 소송을 무력화하기 위해 공화당 소속 19개 주가... ",
+        "pubDate": "Tue, 24 Feb 2026 15:00:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.impacton.net/news/articleView.html?idxno=18015",
+        "content": null,
+        "related_companies": [
+          "엑손모빌"
+        ],
+        "ai_classification_reason": "정유업계 소송에 대한 직접적인 언급이 있어 관련성이 높음",
+        "summary": "미국 연방대법원은 엑손모빌과 선코어의 기후소송을 다루고 있으며, 정유업체들의 상고 신청을 받아들였다."
+      },
+      {
+        "title": "美-이란 전쟁 불안감에 국제유가 급등…정유株 날개 다나",
+        "link": "https://n.news.naver.com/mnews/article/629/0000474898?sid=101",
+        "description": "국제유가 등락에 따른 실적 영향을 크게 받는 국내 정유사 주가도 따라서 급등하고 있다. 통상 국제유가... 정유사의 수익성을 가늠하는 핵심 지표인 정제마진이 보통 개선된다. 정제마진은 휘발유와 경유 등 석유제... ",
+        "pubDate": "Tue, 24 Feb 2026 00:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://news.tf.co.kr/read/economy/2294989.htm",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "국제유가 급등이 정유사 주가에 미치는 영향에 대한 내용이 중심",
+        "summary": "국제유가 상승으로 인해 국내 정유사들의 주가가 급등하며, 정제마진의 개선이 예상되고 있다."
+      },
+      {
+        "title": "[美-이란 전운 고조] 국제유가 요동…정유사 실적 반등 기대 속 긴장감...",
+        "link": "https://n.news.naver.com/mnews/article/119/0003061999?sid=101",
+        "description": "동시에 휘발유·경유 등 석유제품 가격 인상 기대가 반영되며 정제마진 개선 가능성도 커진다. 실제로 최근 정유주가 강세 흐름을 보이며 시장은 단기 수익성 회복 가능성을 선반영하는 모습이다. 그러나 유가 상승이... ",
+        "pubDate": "Mon, 23 Feb 2026 16:02:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.dailian.co.kr/news/view/1613160/?sc=Naver",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "국제유가의 변동과 정유사의 실적 기대 관련 내용",
+        "summary": "군사적 긴장 속에 국제유가가 요동치며 정유주가 강세를 보이고 있고, 수익성 회복에 대한 기대가 커지고 있다."
+      },
+      {
+        "title": "SK이노베이션, 6조 빚 털고 3.3조 잭팟…목표가 17만 원으로 상향",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=86389",
+        "description": "증권업계는 SK이노베이션의 이러한 변화를 긍정적으로 평가하며 목표주가를 기존 14만 원에서 17만 원으로 높여 잡았다. 현재 정유업황이 호황기에 접어든 데다, 석유화학 부문도 실적이 반등하는 '업사이클'에... ",
+        "pubDate": "Mon, 23 Feb 2026 10:12:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.newsian.co.kr/news/articleView.html?idxno=86389",
+        "content": null,
+        "related_companies": [
+          "SK이노베이션"
+        ],
+        "ai_classification_reason": "기업의 실적과 석유화학 부문에 대한 긍정적인 전망이 포함됨",
+        "summary": "SK이노베이션의 부채 문제 해결과 긍정적인 정유업황 덕분에 목표가가 17만원으로 상향 조정되었다."
+      },
+      {
+        "title": "美 이란 공습 임박설에 정유주 급등…상승 흐름 언제까지 이어질까",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1337835",
+        "description": "보험주가 지수를 끌어올렸지만 실제로 시장의 관심이 집중된 곳은 정유 관련주였다. 이날 흥구석유는 24.36% 오른 1만9040원에 거래를 마쳤고 대형 정유사인 S-Oil과 SK이노베이션도 각각 8.21%, 7.59% 상승한 12만원, 12만7600원에... ",
+        "pubDate": "Mon, 23 Feb 2026 08:50:00 +0900",
+        "source": "Naver",
+        "original_link": "https://daily.hankooki.com/news/articleView.html?idxno=1337835",
+        "content": null,
+        "related_companies": [
+          "SK이노베이션",
+          "흥구석유",
+          "S-Oil"
+        ],
+        "ai_classification_reason": "정유사의 주가 급등에 대한 내용이 포함되어 적합함",
+        "summary": "이란 공습 임박설에 따라 정유주가 급등하며 흥구석유가 24.36% 상승하는 등의 현상이 나타났다."
+      },
+      {
+        "title": "SK이노베이션, 정유 업황 소외 끝…목표가 17만원-하나증권",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=349219",
+        "description": "대해 정유 업황 회복과 사업 포트폴리오 재편 효과를 반영해 목표주가를 17만원으로 올리고 매수 의견을... 윤 연구원은 \"정유는 호황 국면, 석유화학은 턴어라운드 구간\"이라며 \"이제는 정유 업사이클에서 소외될... ",
+        "pubDate": "Sun, 22 Feb 2026 19:58:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.biztribune.co.kr/news/articleView.html?idxno=349219",
+        "content": null,
+        "related_companies": [
+          "SK이노베이션"
+        ],
+        "ai_classification_reason": "정유 업황 회복에 대한 분석과 예측이 포함되어 있음",
+        "summary": "SK이노베이션은 정유 업황 회복과 포트폴리오 재편으로 목표주가가 17만원으로 올랐다."
+      },
+      {
+        "title": "유가 뛰자 정유주 동반 랠리",
+        "link": "https://n.news.naver.com/mnews/article/011/0004592162?sid=101",
+        "description": "20일 SK이노베이션의 주가는 7.59% 올랐고 흥구석유 주가는 하루 사이 24.36% 급등했다. 정유 관련 상장지수펀드(ETF)도 일제히 강세를 이어가고 있다. KODEX 에너지화학 ETF는 20일 1.72% 상승한 1만 6575원에 마감했다.... ",
+        "pubDate": "Sun, 22 Feb 2026 17:53:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.sedaily.com/article/20011116?ref=naver",
+        "content": null,
+        "related_companies": [
+          "SK이노베이션",
+          "흥구석유"
+        ],
+        "ai_classification_reason": "정유주들의 급등 현상이 중심 주제로 다루어짐",
+        "summary": "유가 상승으로 인해 SK이노베이션과 흥구석유 등이 기록적인 주가 상승을 기록하고 있다."
+      }
+    ],
+    "news_volume": 22921.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:39",
+    "sector_briefing": "엑손모빌과 선코어의 기후소송 결정에 따른 글로벌 정유사 주가 상승과 이란 전쟁 불안감으로 석유 섹터에 주목하고 있다.",
+    "rising_keywords": [
+      "SK이노베이션",
+      "흥구석유",
+      "엑손모빌",
+      "S-Oil"
+    ]
+  }
+}

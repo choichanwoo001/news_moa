@@ -1,0 +1,73 @@
+{
+  "saved_at": 1772032781.0282276,
+  "data": {
+    "sector_id": "EN_2",
+    "sector_name": "가스",
+    "category_id": "EN",
+    "category_name": "에너지",
+    "articles": [
+      {
+        "title": "'전기' 가져야 이기는 AI 전쟁…'무기'는 가스터빈",
+        "link": "https://news.mtn.co.kr/news-detail/2026022516194431470",
+        "description": "미국에너지부(DOE)는 미국 전체 전력 소비에서 데이터센터가 차지하는 비중이 2023년 4.4%에서 2028년 12%로... 하지만 최근 가스터빈 수주가 몰리면서 기존 3강 기업들이 물량을 소화하지 못하는 현상이 나타나고 있습니다.... ",
+        "pubDate": "Wed, 25 Feb 2026 18:24:00 +0900",
+        "source": "Naver",
+        "original_link": "https://news.mtn.co.kr/news-detail/2026022516194431470",
+        "content": null,
+        "related_companies": [
+          "두산에너빌리티"
+        ],
+        "ai_classification_reason": "가스터빈 수주와 관련된 정보가 포함되어 있어 가스 섹터와 연관됨",
+        "summary": "미국 에너지부에 따르면 데이터센터의 전력 소비가 증가하고 있으며, 가스터빈 수주가 증가하고 있다."
+      },
+      {
+        "title": "한전기술·서전기전 주가 방긋... 원전 설계 및 수배전반 핵심 기술주에...",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432192",
+        "description": "원전용 실리콘 소재의 HRS와 에너지 설비 전문 강원에너지, 가스 터빈 부품의 원일티엔아이가 하락 중이다. 열교환기 전문 한텍과 밸브 액추에이터의 에너토크, 공랭식 열교환기의 SNT에너지도 약세다. 원전 시험 인증의... ",
+        "pubDate": "Wed, 25 Feb 2026 14:46:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=432192",
+        "content": null,
+        "related_companies": [
+          "원일티엔아이"
+        ],
+        "ai_classification_reason": "가스 터빈 부품과 관련된 기업명이 언급되어 가스 섹터와 관련있음",
+        "summary": "가스 터빈 부품 관련 기업의 주가가 하락 중인 사실을 보도하고 있다."
+      },
+      {
+        "title": "'6천피' 질주에 건설주도 활짝… 현대건설 14% 급등",
+        "link": "https://n.news.naver.com/mnews/article/417/0001131369?sid=101",
+        "description": "김선미 신한투자증권 연구원은 \"원전, 블루암모니아, 액화천연가스(LNG) 등 뉴에너지 플랜트 발주 증가 기대감에 밸류에이션(실적 대비 주가 수준)이 재평가됐다\"며 \"지난 4년간 투자자로부터 소외당하면서 비어... ",
+        "pubDate": "Wed, 25 Feb 2026 11:28:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.sidae.com/article/2026022510432774561",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "액화천연가스와 관련된 내용이 있어 가스 섹터에 적합함",
+        "summary": "뉴에너지 플랜트 발주 증가로 액화천연가스(LNG) 관련 기대감이 상승하고 있다."
+      },
+      {
+        "title": "[특징주] 두산에너빌리티, AI 전력·원전 '더블 엔진' 가동… 목표가 13...",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=589702",
+        "description": "◆ 북미 AI 전력 시장 '게임체인저' 부상 두산에너빌리티는 최근 일론 머스크의 xAI로부터 가스터빈 5기를 수주하며 북미 시장 진입에 성공했다. 글로벌 시장을 독점해온 GE 버노바, 지멘스 에너지 등 '빅3'의 수주... ",
+        "pubDate": "Wed, 25 Feb 2026 11:06:00 +0900",
+        "source": "Naver",
+        "original_link": "http://www.newstnt.com/news/articleView.html?idxno=589702",
+        "content": null,
+        "related_companies": [
+          "두산에너빌리티"
+        ],
+        "ai_classification_reason": "가스터빈과 관련된 기업 프로젝터에 대한 수주 소식이 포함되어 있어 적합함",
+        "summary": "두산에너빌리티가 북미 시장에 진입하기 위해 가스터빈을 수주했다."
+      }
+    ],
+    "news_volume": 51524.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:39",
+    "sector_briefing": "가스터빈 수주 증가와 LNG 기대감으로 인해 가스 섹터가 주목받고 있는 상황입니다.",
+    "rising_keywords": [
+      "두산에너빌리티",
+      "원일티엔아이"
+    ]
+  }
+}

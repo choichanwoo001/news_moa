@@ -1,0 +1,106 @@
+{
+  "saved_at": 1772032742.7345345,
+  "data": {
+    "sector_id": "FN_2",
+    "sector_name": "보험",
+    "category_id": "FN",
+    "category_name": "금융",
+    "articles": [
+      {
+        "title": "코스피, 한 달 만에 6000 돌파…\"자사주 소각 의무화도 호재\"",
+        "link": "https://n.news.naver.com/mnews/article/448/0000592946?sid=101",
+        "description": "이렇게 되면 주당 가치가 올라 주가에는 긍정적입니다. 한지영 / 키움증권 \"주주 환원에 대한 시장의 프리미엄들이 높아지는 거죠. 금융주들, 증권 보험 이런 주식들에 호재성 재료로 작용하고\" 하지만 재계에서는... ",
+        "pubDate": "Wed, 25 Feb 2026 21:39:00 +0900",
+        "source": "Naver",
+        "original_link": "https://news.tvchosun.com/site/data/html_dir/2026/02/25/2026022590278.html",
+        "content": null,
+        "related_companies": [
+          "삼성생명",
+          "한화생명"
+        ],
+        "ai_classification_reason": "보험주의 주가 변동 및 분석 내용",
+        "summary": "보험주가 최근 큰 폭으로 상승하며 시장에서 주목받고 있으며, 특히 삼성생명이 급등한 것으로 보고되었다."
+      },
+      {
+        "title": "지배구조 투명성·주주 가치 제고 기대감",
+        "link": "https://n.news.naver.com/mnews/article/022/0004108477?sid=101",
+        "description": "일찌감치 3차 상법 개정 수혜주로 꼽혔던 증권 업종과 금융지주, 보험 종목들의 경우 최근 주가 변동성이 확대했다. 이날 보험주 중에서는 삼성생명(9.82%)은 급등한 반면, 최근 큰 폭으로 상승했던 한화생명(-2.63... ",
+        "pubDate": "Wed, 25 Feb 2026 21:10:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.segye.com/newsView/20260225519352?OutUrl=naver",
+        "content": null,
+        "related_companies": [
+          "삼성생명",
+          "한화생명"
+        ],
+        "ai_classification_reason": "보험주들의 최근 주가 상승 관련 뉴스",
+        "summary": "상법 개정안 통과로 인해 보험주들이 급등하고 있으며, 자사주 소각 의무화 기대감이 컸던 것으로 분석된다."
+      },
+      {
+        "title": "연초부터 보험주 랠리 본격화···생보 할인 해소 vs 손보 수익성 시험...",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=250385",
+        "description": "보험주 주가가 올해 들어 큰 폭으로 상승했다. 연초 이후 주요 종목이 40~60% 오르면서 업종 전반에 매수세가 유입됐다. 다만 상승 배경이 정책 기대에 집중된 만큼 실적과 업황 지표의 확인이 필요하다는 분석이 나온다.... ",
+        "pubDate": "Wed, 25 Feb 2026 20:30:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=250385",
+        "content": null,
+        "related_companies": [
+          "서울보증보험"
+        ],
+        "ai_classification_reason": "서울보증보험의 영업이익 발표 관련 기사",
+        "summary": "서울보증보험이 2025년 4분기에 영업이익이 전년 대비 65.5% 증가한 1806억6600만원을 달성했다고 발표했다."
+      },
+      {
+        "title": "[주식마감] 현대차 강세에 계양전기 상한가... 참엔지니어링, 서울반도...",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1143641",
+        "description": "이날 별도의 공시는 없었으나, 현대차 주가 강세에 따른 수혜 기대감이 반영된 것으로 풀이된다.... 롯데손해보험, 대우건설, TIGER 200선물인버스2X, KODEX 코스닥150레버리지, 신한 인버스 2X WTI원유 선물 ETN(H)... ",
+        "pubDate": "Wed, 25 Feb 2026 19:56:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ggilbo.com/news/articleView.html?idxno=1143641",
+        "content": null,
+        "related_companies": [
+          "미래에셋생명"
+        ],
+        "ai_classification_reason": "보험업체의 주식 소각 결정에 관한 기사",
+        "summary": "미래에셋생명이 주주가치 제고를 위해 1600만주의 보통주를 소각하기로 결정했다."
+      },
+      {
+        "title": "코스피 6,000포인트 돌파...에이피알 30만 원대 진입",
+        "link": "https://www.thebk.co.kr/news/articleView.html?idxno=307961",
+        "description": "특히 기관의 차익 실현에도 불구하고 외국인들이 10일째 지속적 매수를 하면서 주가 상승을 견인했다.... 특히 외국인은 업종별로 전기·전자에서 -22,958억 원, 보험에서 -514억 원, 통신에서 -130억 원을... ",
+        "pubDate": "Wed, 25 Feb 2026 19:48:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.thebk.co.kr/news/articleView.html?idxno=307961",
+        "content": null,
+        "related_companies": [],
+        "ai_classification_reason": "보험업의 정책 변화에 따른 주가 영향 논의",
+        "summary": "자사주 소각 의무화로 보험업과 관련된 기업들이 주가 상승의 기대를 받고 있는 상황이다."
+      },
+      {
+        "title": "3차 상법개정안 통과…‘자사주 소각 의무화’ 증시 더 달굴 듯",
+        "link": "https://n.news.naver.com/mnews/article/028/0002793218?sid=101",
+        "description": "실제 자사주 소각을 의무화하는 상법 개정 움직임에 최근 자사주 보유 비중이 높은 지주사 및 보험업 등이 주식시장에서 강세를 보인 바 있다. 또 대주주가 자사주를 제3자에게 넘기면 의결권이 살아난다는 점을 노려... ",
+        "pubDate": "Wed, 25 Feb 2026 19:38:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.hani.co.kr/arti/economy/economy_general/1246587.html",
+        "content": null,
+        "related_companies": [
+          "한화생명",
+          "삼성생명"
+        ],
+        "ai_classification_reason": "보험주 주가 변동에 대한 보도",
+        "summary": "보험주들이 올해 들어 큰 폭으로 상승하고 있으며, 이에 대한 매수세가 유입되고 있다."
+      }
+    ],
+    "news_volume": 286311.0,
+    "change_rate": 5.0,
+    "cached_at": "2026-02-26 00:19:00",
+    "sector_briefing": "삼성생명과 미래에셋생명이 자사주 소각으로 주주 가치를 높이면서 보험주에 대한 기대가 커진 상황이다.",
+    "rising_keywords": [
+      "삼성생명",
+      "한화생명",
+      "서울보증보험",
+      "미래에셋생명"
+    ]
+  }
+}

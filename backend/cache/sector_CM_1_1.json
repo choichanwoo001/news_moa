@@ -1,0 +1,36 @@
+{
+  "saved_at": 1772032758.6746542,
+  "data": {
+    "sector_id": "CM_1",
+    "sector_name": "통신",
+    "category_id": "CM",
+    "category_name": "커뮤니케이션",
+    "articles": [
+      {
+        "title": "[EBN 오늘(25일) 이슈 종합] '육천피' 시대의 역설…금융지주 이사회 개...",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700870",
+        "description": "유출과 주가조작 가담 혐의로 사법당국의 수사를 받고 있다. 자본시장이 유례없는 양적 성장세를 이어가는... 이동통신 3사가 자체 인공지능(AI) 모델을 전면에 내세우고 있다. 데이터센터 확장에 이어 이제는 '누가 AI... ",
+        "pubDate": "Wed, 25 Feb 2026 21:00:00 +0900",
+        "source": "Naver",
+        "original_link": "https://www.ebn.co.kr/news/articleView.html?idxno=1700870",
+        "content": null,
+        "related_companies": [
+          "SK텔레콤",
+          "KT",
+          "LG유플러스"
+        ],
+        "ai_classification_reason": "이동통신 3사의 AI 모델 도입 관련 뉴스",
+        "summary": "이동통신 3사가 자사의 AI 모델을 전면에 내세우고 데이터센터 확장을 추진하고 있다."
+      }
+    ],
+    "news_volume": 711302.0,
+    "change_rate": 0.0,
+    "cached_at": "2026-02-26 00:19:17",
+    "sector_briefing": "이동통신 3사가 AI 모델을 활용해 데이터센터 확장을 추진하는 상황에 주목.",
+    "rising_keywords": [
+      "SK텔레콤",
+      "KT",
+      "LG유플러스"
+    ]
+  }
+}
